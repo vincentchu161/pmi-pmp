@@ -1,0 +1,30 @@
+# Mindmap: Risk Management / Quản lý rủi ro dự án
+
+- Risk Management / Quản lý rủi ro dự án
+  - Key Concepts / Khái niệm chính
+    - Risk / Rủi ro
+    - Risk Appetite / Khẩu vị rủi ro
+    - Risk Tolerance / Ngưỡng chịu đựng rủi ro
+    - Risk Threshold / Ngưỡng rủi ro
+    - Issue / Vấn đề
+    - Positive Risk (Opportunity) / Rủi ro tích cực (Cơ hội)
+    - Negative Risk (Threat) / Rủi ro tiêu cực (Mối đe dọa)
+  - Processes / Các quy trình
+    - Plan Risk Management / Lập kế hoạch quản lý rủi ro
+    - Identify Risks / Nhận diện rủi ro
+    - Perform Qualitative Risk Analysis / Phân tích định tính rủi ro
+    - Perform Quantitative Risk Analysis / Phân tích định lượng rủi ro
+    - Plan Risk Responses / Lập kế hoạch ứng phó rủi ro
+    - Implement Risk Responses / Thực hiện ứng phó rủi ro
+    - Monitor Risks / Giám sát rủi ro
+  - Key Documents / Tài liệu quan trọng
+    - Risk Management Plan / Kế hoạch quản lý rủi ro
+    - Risk Register / Sổ đăng ký rủi ro
+    - Risk Report / Báo cáo rủi ro
+    - Issue Log / Nhật ký vấn đề
+  - Exam Tips / Mẹo thi PMP
+    - Proactive, not reactive / Chủ động, không bị động
+    - Manage threats & opportunities / Quản lý cả mối đe dọa & cơ hội
+    - Qualitative = prioritize, Quantitative = analyze deeper / Định tính = ưu tiên, Định lượng = phân tích sâu
+    - Risk responses: avoid, transfer, mitigate, accept (threats); exploit, enhance, share, accept (opportunities) / Ứng phó rủi ro: tránh, chuyển giao, giảm nhẹ, chấp nhận (mối đe dọa); khai thác, tăng cường, chia sẻ, chấp nhận (cơ hội)
+    - Update risk register/report regularly / Cập nhật sổ đăng ký/báo cáo rủi ro thường xuyên 

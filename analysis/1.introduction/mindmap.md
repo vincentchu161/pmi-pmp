@@ -1,0 +1,28 @@
+# Mindmap: Introduction to Project Management
+
+- **Project / Dự án**
+  - Temporary / Tạm thời
+  - Unique Output / Kết quả độc nhất
+  - Examples / Ví dụ
+- **Operation / Vận hành**
+  - Ongoing / Liên tục
+  - Repetitive Output / Kết quả lặp lại
+- **Stakeholder / Bên liên quan**
+  - Project Manager / Quản lý dự án
+  - Team / Đội nhóm
+  - Sponsor / Nhà tài trợ
+  - Customer / Khách hàng
+  - Others / Khác
+- **Project Management / Quản lý dự án**
+  - Knowledge, Skills, Tools / Kiến thức, kỹ năng, công cụ
+  - Balance Constraints / Cân bằng ràng buộc
+  - Deliver Value / Tạo giá trị
+- **Key Concepts / Khái niệm nền tảng**
+  - Program / Chương trình
+  - Portfolio / Danh mục dự án
+  - Value / Giá trị
+  - Business Case / Lý do kinh doanh
+- **Exam Tips / Mẹo thi**
+  - Distinguish Project vs Operation / Phân biệt dự án & vận hành
+  - Know Stakeholder Types / Biết các loại bên liên quan
+  - Remember Constraints / Nhớ các ràng buộc dự án 

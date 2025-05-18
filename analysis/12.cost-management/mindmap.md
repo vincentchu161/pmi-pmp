@@ -1,0 +1,27 @@
+# Mindmap: Cost Management / Quản lý chi phí dự án
+
+- Cost Management / Quản lý chi phí dự án
+  - Key Concepts / Khái niệm chính
+    - Cost Baseline / Đường cơ sở chi phí
+    - Estimate Costs / Ước tính chi phí
+    - Budget / Ngân sách
+    - Earned Value Management (EVM) / Quản lý giá trị đạt được (EVM)
+    - Contingency Reserve / Quỹ dự phòng
+    - Management Reserve / Quỹ quản lý
+  - Processes / Các quy trình
+    - Plan Cost Management / Lập kế hoạch quản lý chi phí
+    - Estimate Costs / Ước tính chi phí
+    - Determine Budget / Xác định ngân sách
+    - Control Costs / Kiểm soát chi phí
+  - Key Documents / Tài liệu quan trọng
+    - Cost Management Plan / Kế hoạch quản lý chi phí
+    - Cost Estimates / Ước tính chi phí
+    - Basis of Estimates / Cơ sở ước tính
+    - Cost Baseline / Đường cơ sở chi phí
+    - Project Funding Requirements / Yêu cầu cấp vốn dự án
+  - Exam Tips / Mẹo thi PMP
+    - Understand EVM terms / Hiểu các thuật ngữ EVM
+    - Cost baseline includes contingency reserve / Đường cơ sở chi phí bao gồm quỹ dự phòng
+    - Control costs with EVM / Kiểm soát chi phí bằng EVM
+    - Contingency vs. management reserve / Phân biệt quỹ dự phòng và quỹ quản lý
+    - Estimate costs accurately / Ước tính chi phí chính xác 

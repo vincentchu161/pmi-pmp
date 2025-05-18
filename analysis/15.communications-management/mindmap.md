@@ -1,0 +1,25 @@
+# Mindmap: Communications Management / Quản lý truyền thông dự án
+
+- Communications Management / Quản lý truyền thông dự án
+  - Key Concepts / Khái niệm chính
+    - Communication Requirements Analysis / Phân tích yêu cầu truyền thông
+    - Communication Methods / Phương pháp truyền thông
+    - Communication Models / Mô hình truyền thông
+    - Stakeholder Engagement / Gắn kết các bên liên quan
+    - Communication Barriers / Rào cản truyền thông
+  - Processes / Các quy trình
+    - Plan Communications Management / Lập kế hoạch quản lý truyền thông
+    - Manage Communications / Quản lý truyền thông
+    - Monitor Communications / Giám sát truyền thông
+  - Key Documents / Tài liệu quan trọng
+    - Communications Management Plan / Kế hoạch quản lý truyền thông
+    - Stakeholder Register / Sổ đăng ký các bên liên quan
+    - Project Reports / Báo cáo dự án
+    - Meeting Minutes / Biên bản họp
+    - Communication Matrix / Ma trận truyền thông
+  - Exam Tips / Mẹo thi PMP
+    - Tailor communication to stakeholders / Điều chỉnh truyền thông phù hợp từng bên liên quan
+    - Use right method for each situation / Sử dụng phương pháp phù hợp cho từng tình huống
+    - Monitor effectiveness regularly / Thường xuyên giám sát hiệu quả
+    - Address barriers proactively / Chủ động xử lý rào cản
+    - Clear, timely, accurate communication / Truyền thông rõ ràng, kịp thời, chính xác 

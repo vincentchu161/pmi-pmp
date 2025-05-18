@@ -1,0 +1,27 @@
+# Mindmap: Scope Management / Quản lý phạm vi dự án
+
+- Scope Management / Quản lý phạm vi dự án
+  - Key Concepts / Khái niệm chính
+    - Product Scope / Phạm vi sản phẩm
+    - Project Scope / Phạm vi dự án
+    - Scope Creep / Phạm vi mở rộng ngoài kiểm soát
+    - Gold Plating / Mạ vàng
+  - Processes / Các quy trình
+    - Plan Scope Management / Lập kế hoạch quản lý phạm vi
+    - Collect Requirements / Thu thập yêu cầu
+    - Define Scope / Xác định phạm vi
+    - Create WBS / Tạo cấu trúc phân chia công việc
+    - Validate Scope / Xác nhận phạm vi
+    - Control Scope / Kiểm soát phạm vi
+  - Key Documents / Tài liệu quan trọng
+    - Scope Management Plan / Kế hoạch quản lý phạm vi
+    - Requirements Documentation / Tài liệu yêu cầu
+    - Requirements Traceability Matrix / Ma trận truy vết yêu cầu
+    - Project Scope Statement / Bản mô tả phạm vi dự án
+    - Work Breakdown Structure (WBS) / Cấu trúc phân chia công việc
+  - Exam Tips / Mẹo thi PMP
+    - Distinguish product vs. project scope / Phân biệt phạm vi sản phẩm và dự án
+    - Control scope creep / Kiểm soát phạm vi mở rộng
+    - WBS is foundation / WBS là nền tảng
+    - Validate scope = formal acceptance / Xác nhận phạm vi là chấp nhận chính thức
+    - No gold plating / Không mạ vàng 

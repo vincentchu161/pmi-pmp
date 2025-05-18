@@ -1,0 +1,24 @@
+# Mindmap: Starting a Project
+
+- **Project Selection Methods / Phương pháp lựa chọn dự án**
+  - Feasibility Analysis / Phân tích khả thi
+  - Payback Period, NPV, IRR, ROI / Thời gian hoàn vốn, Giá trị hiện tại ròng, Tỷ suất hoàn vốn nội bộ, Lợi tức đầu tư
+  - Scoring Model, BCR, Opportunity Cost, Sunk Cost / Mô hình chấm điểm, Tỷ lệ lợi ích/chi phí, Chi phí cơ hội, Chi phí chìm
+- **Business Case / Lý do kinh doanh**
+  - Justifies need & value / Chứng minh sự cần thiết & giá trị
+  - Basis for authorization / Cơ sở phê duyệt
+  - Contents: objectives, reasons, benefits, criteria / Nội dung: mục tiêu, lý do, lợi ích, tiêu chí
+- **Project Charter / Bản điều lệ dự án**
+  - Formal authorization / Phê duyệt chính thức
+  - Assigns PM, aligns stakeholders / Chỉ định PM, thống nhất các bên liên quan
+  - Contents: objectives, scope, stakeholders, authority, criteria / Nội dung: mục tiêu, phạm vi, các bên liên quan, quyền hạn, tiêu chí
+- **Project Initiation Process / Quy trình khởi động dự án**
+  - Identify need / Xác định nhu cầu
+  - Develop business case / Xây dựng business case
+  - Select project / Chọn dự án
+  - Create project charter / Lập project charter
+  - Assign project manager / Chỉ định quản lý dự án
+- **Exam Tips / Mẹo thi**
+  - Know difference business case vs charter / Phân biệt business case & charter
+  - Project cannot start without charter / Dự án không bắt đầu nếu không có charter
+  - Know selection methods / Nắm rõ phương pháp lựa chọn 

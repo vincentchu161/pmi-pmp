@@ -1,0 +1,116 @@
+# Mindmap - Quản lý lịch trình dự án (Schedule Management)
+
+## Quy trình quản lý lịch trình
+- Lập kế hoạch quản lý lịch trình
+  - Xác định phương pháp lập lịch
+  - Định nghĩa đơn vị đo
+  - Thiết lập ngưỡng kiểm soát
+  - Định dạng báo cáo
+- Xác định hoạt động
+  - Phân rã từ WBS
+  - Danh sách hoạt động
+  - Thuộc tính hoạt động
+  - Danh sách mũ neo
+- Sắp xếp các hoạt động
+  - Phương pháp tiền nhiệm (PDM)
+  - Quan hệ logic
+    - Kết thúc-Bắt đầu (FS)
+    - Bắt đầu-Bắt đầu (SS)
+    - Kết thúc-Kết thúc (FF)
+    - Bắt đầu-Kết thúc (SF)
+  - Lead và Lag
+  - Biểu đồ mạng
+- Ước tính thời gian hoạt động
+  - Ước tính điểm
+  - Ước tính tham số
+  - Ước tính ba điểm (PERT)
+    - Lạc quan (O)
+    - Khả năng nhất (M)
+    - Bi quan (P)
+    - Trung bình: (O+4M+P)/6
+  - Dự trữ thời gian
+- Phát triển lịch trình
+  - Phân tích mạng
+  - Phương pháp đường găng (CPM)
+  - Tối ưu hóa nguồn lực
+  - Nén lịch trình
+    - Fast tracking
+    - Crashing
+  - Biểu đồ Gantt
+  - Đường cơ sở lịch trình
+- Kiểm soát lịch trình
+  - Đo lường tiến độ
+  - Phân tích sai lệch
+  - Báo cáo tiến độ
+  - Yêu cầu thay đổi
+
+## Kỹ thuật lập lịch trình
+- Phương pháp đường găng (CPM)
+  - Xác định chuỗi hoạt động dài nhất
+  - Thời gian sớm nhất bắt đầu (ES)
+  - Thời gian sớm nhất kết thúc (EF)
+  - Thời gian trễ nhất bắt đầu (LS)
+  - Thời gian trễ nhất kết thúc (LF)
+  - Thời gian nổi (Float)
+- PERT
+  - Ước tính ba điểm
+  - Phân tích xác suất
+  - Biểu đồ PERT
+- Phương pháp chuỗi tới hạn (CCM)
+  - Đệm hoạt động
+  - Đệm dự án
+  - Đệm nguồn lực
+- Phương pháp Agile
+  - Sprint/Iteration
+  - Burndown chart
+  - Velocity
+
+## Tối ưu hóa lịch trình
+- Nén lịch trình
+  - Fast tracking
+    - Thực hiện song song/chồng chéo
+    - Tăng rủi ro
+  - Crashing
+    - Thêm nguồn lực
+    - Tăng chi phí
+    - So sánh chi phí-lợi ích
+- Điều chỉnh nguồn lực
+  - Cân bằng nguồn lực
+  - Làm phẳng nguồn lực
+  - Phân bổ lại nguồn lực
+- Phân tích kịch bản
+  - What-if
+  - Mô phỏng Monte Carlo
+
+## Khái niệm quan trọng
+- Đường găng
+  - Hoạt động găng
+  - Không có thời gian nổi
+  - Xác định thời gian dự án
+- Thời gian nổi
+  - Thời gian nổi tổng thể (Total Float)
+  - Thời gian nổi tự do (Free Float)
+  - Thời gian nổi dự án (Project Float)
+- Ràng buộc lịch trình
+  - Bắt buộc (Mandatory)
+  - Tùy ý (Discretionary)
+  - Bên ngoài (External)
+  - Bên trong (Internal)
+- Mũ neo (Milestone)
+  - Điểm kiểm tra
+  - Sự kiện quan trọng
+  - Không có thời lượng
+
+## Công cụ trực quan hóa
+- Biểu đồ Gantt
+  - Thanh ngang thể hiện thời gian
+  - Dễ hiểu, phổ biến
+  - Thể hiện quan hệ phụ thuộc
+- Biểu đồ mạng
+  - AON (Activity-on-Node)
+  - AOA (Activity-on-Arrow)
+  - Thể hiện mối quan hệ logic
+- S-Curve
+  - Thể hiện tiến độ tích lũy
+  - So sánh kế hoạch vs thực tế
+  - Dự báo xu hướng 

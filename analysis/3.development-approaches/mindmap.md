@@ -1,0 +1,26 @@
+# Mindmap: Development Approaches
+
+- **Predictive / Dự báo (thác nước)**
+  - Plan-driven / Lập kế hoạch trước
+  - Sequential Phases / Tuần tự
+  - Stable Requirements / Yêu cầu ổn định
+- **Iterative / Lặp**
+  - Repeat Cycles / Lặp lại chu kỳ
+  - Refine Product / Hoàn thiện sản phẩm
+- **Incremental / Gia tăng**
+  - Deliver in Parts / Bàn giao từng phần
+  - Step by Step / Từng bước
+- **Agile/Adaptive / Linh hoạt/Thích ứng**
+  - Frequent Delivery / Bàn giao thường xuyên
+  - Respond to Change / Phản ứng với thay đổi
+  - High Stakeholder Involvement / Nhiều bên liên quan tham gia
+- **Hybrid / Lai**
+  - Combine Predictive & Agile / Kết hợp dự báo & linh hoạt
+  - Fit-for-purpose / Phù hợp mục tiêu
+- **When to Use / Khi nào dùng**
+  - Predictive: Stable, low change / Ổn định, ít thay đổi
+  - Agile: High change, fast feedback / Nhiều thay đổi, phản hồi nhanh
+  - Hybrid: Mix / Kết hợp
+- **Exam Tips / Mẹo thi**
+  - Know key terms / Nắm rõ thuật ngữ
+  - Match approach to project / Chọn phương pháp phù hợp dự án 

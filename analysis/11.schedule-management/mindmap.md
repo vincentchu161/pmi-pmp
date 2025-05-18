@@ -1,0 +1,28 @@
+# Mindmap: Schedule Management / Quản lý tiến độ dự án
+
+- Schedule Management / Quản lý tiến độ dự án
+  - Key Concepts / Khái niệm chính
+    - Schedule Baseline / Đường cơ sở tiến độ
+    - Critical Path / Đường găng
+    - Float/Slack / Độ trễ
+    - Leads and Lags / Dẫn trước và trễ sau
+    - Milestone / Mốc
+  - Processes / Các quy trình
+    - Plan Schedule Management / Lập kế hoạch quản lý tiến độ
+    - Define Activities / Xác định hoạt động
+    - Sequence Activities / Sắp xếp trình tự hoạt động
+    - Estimate Activity Durations / Ước tính thời lượng hoạt động
+    - Develop Schedule / Phát triển tiến độ
+    - Control Schedule / Kiểm soát tiến độ
+  - Key Documents / Tài liệu quan trọng
+    - Schedule Management Plan / Kế hoạch quản lý tiến độ
+    - Activity List / Danh sách hoạt động
+    - Network Diagram / Sơ đồ mạng
+    - Milestone List / Danh sách mốc
+    - Schedule Baseline / Đường cơ sở tiến độ
+  - Exam Tips / Mẹo thi PMP
+    - Calculate critical path and float / Tính đường găng và độ trễ
+    - Leads vs. lags / Dẫn trước và trễ sau
+    - Milestones = zero duration / Mốc có thời lượng bằng 0
+    - Schedule baseline for measurement / Đường cơ sở tiến độ để đo lường
+    - Compare actual vs. planned / So sánh thực tế với kế hoạch 

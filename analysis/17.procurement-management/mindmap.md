@@ -1,0 +1,31 @@
+# Mindmap: Procurement Management / Quản lý mua sắm dự án
+
+- Procurement Management / Quản lý mua sắm dự án
+  - Key Concepts / Khái niệm chính
+    - Procurement / Mua sắm
+    - Contract / Hợp đồng
+    - Types of Contracts / Các loại hợp đồng
+      - Fixed-Price / Giá cố định
+      - Cost-Reimbursable / Hoàn phí
+      - Time & Materials (T&M) / Thời gian & vật tư
+    - Bid Documents / Hồ sơ mời thầu
+    - Make-or-Buy Analysis / Phân tích tự làm hay mua
+    - Procurement SOW / Mô tả phạm vi mua sắm
+    - Source Selection Criteria / Tiêu chí lựa chọn nhà cung cấp
+  - Processes / Các quy trình
+    - Plan Procurement Management / Lập kế hoạch quản lý mua sắm
+    - Conduct Procurements / Thực hiện mua sắm
+    - Control Procurements / Kiểm soát mua sắm
+  - Key Documents / Tài liệu quan trọng
+    - Procurement Management Plan / Kế hoạch quản lý mua sắm
+    - Bid Documents / Hồ sơ mời thầu
+    - Procurement SOW / Mô tả phạm vi mua sắm
+    - Source Selection Criteria / Tiêu chí lựa chọn nhà cung cấp
+    - Agreements/Contracts / Thỏa thuận/Hợp đồng
+    - Change Requests / Yêu cầu thay đổi
+  - Exam Tips / Mẹo thi PMP
+    - Know contract types & risk allocation / Phân biệt loại hợp đồng & phân bổ rủi ro
+    - SOW must be clear & complete / Mô tả phạm vi mua sắm phải rõ ràng, đầy đủ
+    - Buyer can be project team or external / Bên mua có thể là nhóm dự án hoặc khách hàng ngoài
+    - Contract changes need formal control / Thay đổi hợp đồng phải kiểm soát chính thức
+    - Define selection criteria before evaluation / Xác định tiêu chí lựa chọn trước khi đánh giá 

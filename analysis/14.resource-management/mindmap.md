@@ -1,0 +1,29 @@
+# Mindmap: Resource Management / Quản lý nguồn lực dự án
+
+- Resource Management / Quản lý nguồn lực dự án
+  - Key Concepts / Khái niệm chính
+    - Resource Planning / Lập kế hoạch nguồn lực
+    - Acquire Resources / Thu nhận nguồn lực
+    - Develop Team / Phát triển đội nhóm
+    - Manage Team / Quản lý đội nhóm
+    - Physical Resources / Nguồn lực vật chất
+    - Human Resources / Nguồn lực con người
+  - Processes / Các quy trình
+    - Plan Resource Management / Lập kế hoạch quản lý nguồn lực
+    - Estimate Activity Resources / Ước tính nguồn lực cho hoạt động
+    - Acquire Resources / Thu nhận nguồn lực
+    - Develop Team / Phát triển đội nhóm
+    - Manage Team / Quản lý đội nhóm
+    - Control Resources / Kiểm soát nguồn lực
+  - Key Documents / Tài liệu quan trọng
+    - Resource Management Plan / Kế hoạch quản lý nguồn lực
+    - Team Charter / Điều lệ đội nhóm
+    - Resource Breakdown Structure (RBS) / Cấu trúc phân chia nguồn lực
+    - Resource Calendars / Lịch nguồn lực
+    - Team Performance Assessments / Đánh giá hiệu suất đội nhóm
+  - Exam Tips / Mẹo thi PMP
+    - Human vs. physical resources / Phân biệt nguồn lực con người & vật chất
+    - Team Charter for alignment / Điều lệ đội nhóm giúp đồng bộ
+    - Resolve resource conflicts early / Giải quyết xung đột nguồn lực sớm
+    - Develop Team = improvement, Manage Team = performance / Phát triển đội nhóm = cải thiện, Quản lý đội nhóm = hiệu suất
+    - RBS is like WBS for resources / RBS tương tự WBS nhưng cho nguồn lực 

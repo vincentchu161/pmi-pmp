@@ -1,0 +1,25 @@
+# Mindmap: Quality Management / Quản lý chất lượng dự án
+
+- Quality Management / Quản lý chất lượng dự án
+  - Key Concepts / Khái niệm chính
+    - Quality / Chất lượng
+    - Quality Assurance (QA) / Đảm bảo chất lượng
+    - Quality Control (QC) / Kiểm soát chất lượng
+    - Continuous Improvement / Cải tiến liên tục
+    - Cost of Quality (COQ) / Chi phí chất lượng
+  - Processes / Các quy trình
+    - Plan Quality Management / Lập kế hoạch quản lý chất lượng
+    - Manage Quality / Quản lý chất lượng
+    - Control Quality / Kiểm soát chất lượng
+  - Key Documents / Tài liệu quan trọng
+    - Quality Management Plan / Kế hoạch quản lý chất lượng
+    - Quality Metrics / Chỉ số chất lượng
+    - Quality Checklists / Danh mục kiểm tra chất lượng
+    - Process Improvement Plan / Kế hoạch cải tiến quy trình
+    - Test and Evaluation Documents / Tài liệu kiểm tra và đánh giá
+  - Exam Tips / Mẹo thi PMP
+    - Quality is planned, not inspected in / Chất lượng phải được lập kế hoạch, không chỉ kiểm tra
+    - Prevention > inspection / Phòng ngừa tốt hơn kiểm tra
+    - QA vs. QC / Phân biệt QA và QC
+    - Continuous improvement (PDCA, Kaizen) / Cải tiến liên tục (PDCA, Kaizen)
+    - COQ = conformance + non-conformance costs / Chi phí chất lượng gồm tuân thủ & không tuân thủ 

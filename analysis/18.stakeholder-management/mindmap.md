@@ -1,0 +1,25 @@
+# Mindmap: Stakeholder Management / Quản lý các bên liên quan dự án
+
+- Stakeholder Management / Quản lý các bên liên quan dự án
+  - Key Concepts / Khái niệm chính
+    - Stakeholder / Bên liên quan
+    - Stakeholder Engagement / Gắn kết các bên liên quan
+    - Stakeholder Analysis / Phân tích các bên liên quan
+    - Stakeholder Register / Sổ đăng ký các bên liên quan
+    - Power/Interest Grid / Ma trận quyền lực/lợi ích
+  - Processes / Các quy trình
+    - Identify Stakeholders / Nhận diện các bên liên quan
+    - Plan Stakeholder Engagement / Lập kế hoạch gắn kết các bên liên quan
+    - Manage Stakeholder Engagement / Quản lý gắn kết các bên liên quan
+    - Monitor Stakeholder Engagement / Giám sát gắn kết các bên liên quan
+  - Key Documents / Tài liệu quan trọng
+    - Stakeholder Register / Sổ đăng ký các bên liên quan
+    - Stakeholder Engagement Plan / Kế hoạch gắn kết các bên liên quan
+    - Power/Interest Grid / Ma trận quyền lực/lợi ích
+    - Issue Log / Nhật ký vấn đề
+  - Exam Tips / Mẹo thi PMP
+    - Identify stakeholders early & update / Nhận diện sớm & cập nhật thường xuyên
+    - Engagement is ongoing / Gắn kết là quá trình liên tục
+    - Tailor strategies to needs/influence / Điều chỉnh chiến lược phù hợp nhu cầu/ảnh hưởng
+    - Use power/interest grid for prioritization / Sử dụng ma trận quyền lực/lợi ích để ưu tiên
+    - Effective communication = stakeholder satisfaction / Giao tiếp hiệu quả = hài lòng các bên liên quan 

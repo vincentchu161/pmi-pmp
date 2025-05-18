@@ -1,0 +1,23 @@
+# Mindmap: Organizational Structures
+
+- **Functional / Chức năng**
+  - Grouped by specialty / Phân theo chuyên môn
+  - PM little authority / PM ít quyền lực
+- **Projectized / Theo dự án**
+  - Grouped by project / Phân theo dự án
+  - PM high authority / PM quyền lực cao
+- **Matrix / Ma trận**
+  - Weak: PM limited authority / Yếu: PM quyền hạn thấp
+  - Balanced: Share authority / Cân bằng: Chia sẻ quyền lực
+  - Strong: PM more authority / Mạnh: PM quyền lực lớn hơn
+- **Composite / Kết hợp**
+  - Mix of structures / Kết hợp nhiều loại
+- **Impact on PM / Ảnh hưởng đến PM**
+  - Authority, resources, role clarity / Quyền lực, nguồn lực, vai trò
+- **Advantages & Disadvantages / Ưu nhược điểm**
+  - Functional: Clear expertise, slow, low PM power / Chuyên môn rõ, chậm, PM yếu
+  - Projectized: Fast, high PM power, less sharing / Nhanh, PM mạnh, ít chia sẻ
+  - Matrix: Resource sharing, complex, conflict / Chia sẻ nguồn lực, phức tạp, xung đột
+- **Exam Tips / Mẹo thi**
+  - Know structure traits / Nắm đặc điểm từng loại
+  - Understand PM authority / Hiểu quyền lực PM 

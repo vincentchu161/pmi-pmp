@@ -1,0 +1,31 @@
+# Mindmap: Integration Management / Quản lý tích hợp dự án
+
+- Integration Management / Quản lý tích hợp dự án
+  - Key Concepts / Khái niệm chính
+    - Integration / Tích hợp
+    - Project Charter / Bản điều lệ dự án
+    - Project Management Plan / Kế hoạch quản lý dự án
+    - Change Control / Kiểm soát thay đổi
+    - Knowledge Management / Quản lý tri thức
+    - Trade-off / Cân đối
+    - Alignment / Đồng bộ
+  - Processes / Các quy trình
+    - Develop Project Charter / Xây dựng bản điều lệ dự án
+    - Develop Project Management Plan / Xây dựng kế hoạch quản lý dự án
+    - Direct and Manage Project Work / Chỉ đạo & quản lý công việc dự án
+    - Manage Project Knowledge / Quản lý tri thức dự án
+    - Monitor and Control Project Work / Giám sát & kiểm soát công việc dự án
+    - Perform Integrated Change Control / Thực hiện kiểm soát thay đổi tích hợp
+    - Close Project or Phase / Kết thúc dự án hoặc giai đoạn
+  - Key Documents / Tài liệu quan trọng
+    - Project Charter / Bản điều lệ dự án
+    - Project Management Plan / Kế hoạch quản lý dự án
+    - Change Log / Nhật ký thay đổi
+    - Lessons Learned Register / Sổ ghi nhận bài học kinh nghiệm
+    - Final Report / Báo cáo tổng kết
+  - Exam Tips / Mẹo thi PMP
+    - Integration is the PM's main job / Tích hợp là nhiệm vụ chính của PM
+    - Project Charter authorizes the project / Bản điều lệ dự án là tài liệu phê duyệt dự án
+    - Change control is strict / Kiểm soát thay đổi phải chặt chẽ
+    - Lessons learned are captured throughout / Bài học kinh nghiệm được ghi nhận liên tục
+    - Closing = formal completion / Kết thúc = hoàn thành chính thức 
