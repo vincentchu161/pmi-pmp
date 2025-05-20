@@ -6,12 +6,24 @@
 - **Tầm quan trọng | Importance**: Quản lý lịch trình hiệu quả giúp dự án hoàn thành đúng thời hạn, tối ưu hóa nguồn lực và kiểm soát chi phí | Effective schedule management helps complete projects on time, optimize resources, and control costs
 
 ## Các quy trình quản lý lịch trình | Schedule Management Processes
-1. **Lập kế hoạch quản lý lịch trình | Plan Schedule Management**: Thiết lập chính sách, thủ tục và tài liệu để lập kế hoạch, phát triển, quản lý, thực hiện và kiểm soát lịch trình dự án | Establishing policies, procedures, and documentation for planning, developing, managing, executing, and controlling the project schedule
-2. **Xác định hoạt động | Define Activities**: Xác định và tài liệu hóa các hành động cụ thể cần thực hiện để tạo ra kết quả bàn giao dự án | Identifying and documenting the specific actions to be performed to produce project deliverables
-3. **Sắp xếp các hoạt động | Sequence Activities**: Xác định và ghi lại mối quan hệ giữa các hoạt động dự án | Identifying and documenting relationships among project activities
-4. **Ước tính thời gian hoạt động | Estimate Activity Durations**: Ước tính số kỳ làm việc cần thiết để hoàn thành từng hoạt động với các nguồn lực dự kiến | Estimating the number of work periods needed to complete individual activities with estimated resources
-5. **Phát triển lịch trình | Develop Schedule**: Phân tích trình tự hoạt động, thời lượng, yêu cầu nguồn lực và ràng buộc lịch trình để tạo mô hình lịch trình dự án | Analyzing activity sequences, durations, resource requirements, and schedule constraints to create the project schedule model
-6. **Kiểm soát lịch trình | Control Schedule**: Giám sát trạng thái dự án để cập nhật tiến độ và quản lý thay đổi đối với đường cơ sở lịch trình | Monitoring project status to update project progress and manage changes to the schedule baseline
+
+### 1. Lập kế hoạch quản lý lịch trình | Plan Schedule Management
+Thiết lập chính sách, thủ tục và tài liệu để lập kế hoạch, phát triển, quản lý, thực hiện và kiểm soát lịch trình dự án | Establishing policies, procedures, and documentation for planning, developing, managing, executing, and controlling the project schedule
+
+### 2. Xác định hoạt động | Define Activities
+Xác định và tài liệu hóa các hành động cụ thể cần thực hiện để tạo ra kết quả bàn giao dự án | Identifying and documenting the specific actions to be performed to produce project deliverables
+
+### 3. Sắp xếp các hoạt động | Sequence Activities
+Xác định và ghi lại mối quan hệ giữa các hoạt động dự án | Identifying and documenting relationships among project activities
+
+### 4. Ước tính thời gian hoạt động | Estimate Activity Durations
+Ước tính số kỳ làm việc cần thiết để hoàn thành từng hoạt động với các nguồn lực dự kiến | Estimating the number of work periods needed to complete individual activities with estimated resources
+
+### 5. Phát triển lịch trình | Develop Schedule
+Phân tích trình tự hoạt động, thời lượng, yêu cầu nguồn lực và ràng buộc lịch trình để tạo mô hình lịch trình dự án | Analyzing activity sequences, durations, resource requirements, and schedule constraints to create the project schedule model
+
+### 6. Kiểm soát lịch trình | Control Schedule
+Giám sát trạng thái dự án để cập nhật tiến độ và quản lý thay đổi đối với đường cơ sở lịch trình | Monitoring project status to update project progress and manage changes to the schedule baseline
 
 ## Công cụ và kỹ thuật lập lịch trình | Schedule Tools and Techniques
 ### Phương pháp xác định mối quan hệ giữa các hoạt động | Activity Relationship Methods

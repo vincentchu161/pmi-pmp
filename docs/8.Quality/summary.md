@@ -22,9 +22,15 @@
 - **Quản lý mối quan hệ | Relationship Management**: Quản lý mối quan hệ với các bên liên quan để tối ưu hóa tác động | Managing relationships with stakeholders to optimize impact
 
 ## Các quy trình quản lý chất lượng | Quality Management Processes
-1. **Lập kế hoạch quản lý chất lượng | Plan Quality Management**: Xác định yêu cầu và/hoặc tiêu chuẩn chất lượng cho dự án và sản phẩm, và tạo kế hoạch đạt được các yêu cầu đó | Identifying quality requirements and/or standards for the project and its deliverables, and documenting how the project will demonstrate compliance
-2. **Quản lý chất lượng | Manage Quality**: Thực hiện kế hoạch quản lý chất lượng, quy trình chất lượng trong tổ chức để đạt các mục tiêu chất lượng | Implementing the quality management plan, the organization's quality processes to achieve quality objectives
-3. **Kiểm soát chất lượng | Control Quality**: Giám sát và ghi lại kết quả thực hiện các hoạt động quản lý chất lượng, đánh giá hiệu suất và đảm bảo kết quả phù hợp | Monitoring and recording results of quality management activities, evaluating performance, and ensuring appropriate results
+
+### 1. Lập kế hoạch quản lý chất lượng | Plan Quality Management
+Xác định yêu cầu và/hoặc tiêu chuẩn chất lượng cho dự án và sản phẩm, và tạo kế hoạch đạt được các yêu cầu đó | Identifying quality requirements and/or standards for the project and its deliverables, and documenting how the project will demonstrate compliance
+
+### 2. Quản lý chất lượng | Manage Quality
+Thực hiện kế hoạch quản lý chất lượng, quy trình chất lượng trong tổ chức để đạt các mục tiêu chất lượng | Implementing the quality management plan, the organization's quality processes to achieve quality objectives
+
+### 3. Kiểm soát chất lượng | Control Quality
+Giám sát và ghi lại kết quả thực hiện các hoạt động quản lý chất lượng, đánh giá hiệu suất và đảm bảo kết quả phù hợp | Monitoring and recording results of quality management activities, evaluating performance, and ensuring appropriate results
 
 ## Công cụ và kỹ thuật quản lý chất lượng | Quality Management Tools and Techniques
 

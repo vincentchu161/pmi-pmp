@@ -6,11 +6,21 @@
 - Thành phần đội dự án có thể bao gồm nhân viên toàn thời gian, bán thời gian, nhà thầu và tư vấn | Project team members may include full-time, part-time employees, contractors, and consultants
 
 ## Các giai đoạn phát triển đội | Team Development Stages
-1. **Hình thành (Forming) | Forming**: Các thành viên mới làm quen với nhau và dự án | New members get acquainted with each other and the project
-2. **Bão táp (Storming) | Storming**: Xuất hiện xung đột khi các thành viên bắt đầu làm việc cùng nhau | Conflicts emerge as members begin working together
-3. **Ổn định (Norming) | Norming**: Xây dựng quy tắc, phát triển sự tin tưởng và làm việc hiệu quả | Establishing rules, developing trust, and working effectively
-4. **Hoạt động (Performing) | Performing**: Đội hoạt động hiệu quả cao | Team functions at high efficiency
-5. **Tan rã (Adjourning) | Adjourning**: Kết thúc dự án, giải tán đội | Project completion, team disbands
+
+### 1. Hình thành (Forming) | Forming
+Các thành viên mới làm quen với nhau và dự án | New members get acquainted with each other and the project
+
+### 2. Bão táp (Storming) | Storming
+Xuất hiện xung đột khi các thành viên bắt đầu làm việc cùng nhau | Conflicts emerge as members begin working together
+
+### 3. Ổn định (Norming) | Norming
+Xây dựng quy tắc, phát triển sự tin tưởng và làm việc hiệu quả | Establishing rules, developing trust, and working effectively
+
+### 4. Hoạt động (Performing) | Performing
+Đội hoạt động hiệu quả cao | Team functions at high efficiency
+
+### 5. Tan rã (Adjourning) | Adjourning
+Kết thúc dự án, giải tán đội | Project completion, team disbands
 
 ## Các kỹ năng quản lý đội | Team Management Skills
 - **Lãnh đạo | Leadership**: Định hướng và truyền cảm hứng cho đội | Directing and inspiring the team

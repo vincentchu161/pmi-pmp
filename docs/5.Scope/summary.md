@@ -6,12 +6,24 @@
 - **Quản lý phạm vi | Scope Management**: Các quy trình đảm bảo dự án bao gồm tất cả công việc cần thiết, và chỉ công việc cần thiết, để hoàn thành dự án thành công | The processes that ensure the project includes all the work required, and only the work required, to complete the project successfully
 
 ## Các quy trình quản lý phạm vi | Scope Management Processes
-1. **Lập kế hoạch quản lý phạm vi | Plan Scope Management**: Tạo kế hoạch xác định, xác nhận và kiểm soát phạm vi | Creating a plan that documents how the scope will be defined, validated, and controlled
-2. **Thu thập yêu cầu | Collect Requirements**: Xác định, tài liệu hóa, và quản lý nhu cầu của bên liên quan | Determining, documenting, and managing stakeholder needs and requirements
-3. **Xác định phạm vi | Define Scope**: Phát triển mô tả chi tiết về dự án và sản phẩm | Developing a detailed description of the project and product
-4. **Tạo WBS | Create WBS (Work Breakdown Structure)**: Chia nhỏ các kết quả bàn giao và công việc dự án thành các thành phần nhỏ hơn, dễ quản lý | Subdividing project deliverables and work into smaller, more manageable components
-5. **Xác nhận phạm vi | Validate Scope**: Chính thức chấp nhận các kết quả bàn giao đã hoàn thành | Formalizing acceptance of the completed project deliverables
-6. **Kiểm soát phạm vi | Control Scope**: Giám sát trạng thái phạm vi dự án và sản phẩm, quản lý thay đổi | Monitoring the status of the project and product scope and managing changes to the scope baseline
+
+### 1. Lập kế hoạch quản lý phạm vi | Plan Scope Management
+Tạo kế hoạch xác định, xác nhận và kiểm soát phạm vi | Creating a plan that documents how the scope will be defined, validated, and controlled
+
+### 2. Thu thập yêu cầu | Collect Requirements
+Xác định, tài liệu hóa, và quản lý nhu cầu của bên liên quan | Determining, documenting, and managing stakeholder needs and requirements
+
+### 3. Xác định phạm vi | Define Scope
+Phát triển mô tả chi tiết về dự án và sản phẩm | Developing a detailed description of the project and product
+
+### 4. Tạo WBS | Create WBS (Work Breakdown Structure)
+Chia nhỏ các kết quả bàn giao và công việc dự án thành các thành phần nhỏ hơn, dễ quản lý | Subdividing project deliverables and work into smaller, more manageable components
+
+### 5. Xác nhận phạm vi | Validate Scope
+Chính thức chấp nhận các kết quả bàn giao đã hoàn thành | Formalizing acceptance of the completed project deliverables
+
+### 6. Kiểm soát phạm vi | Control Scope
+Giám sát trạng thái phạm vi dự án và sản phẩm, quản lý thay đổi | Monitoring the status of the project and product scope and managing changes to the scope baseline
 
 ## Các công cụ và kỹ thuật | Tools and Techniques
 ### Thu thập yêu cầu | Collecting Requirements

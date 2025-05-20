@@ -61,79 +61,81 @@
   - Lai (Hybrid): Kết hợp các yếu tố của cả phương pháp dự đoán và thích ứng | Combines elements of both predictive and adaptive approaches
 
 ## Các nhóm quy trình quản lý dự án | Project Management Process Groups
-1. Nhóm quy trình khởi động | Initiating Process Group
-   - Xác định dự án mới hoặc giai đoạn mới | Defines a new project or phase
-   - Lấy ủy quyền để bắt đầu dự án | Obtains authorization to start the project
-   - Các quy trình chính: Xây dựng điều lệ dự án, Xác định các bên liên quan | Key processes: Develop Project Charter, Identify Stakeholders
 
-2. Nhóm quy trình lập kế hoạch | Planning Process Group
-   - Thiết lập phạm vi, mục tiêu và kế hoạch hành động | Establishes scope, objectives, and course of action
-   - Phát triển kế hoạch quản lý dự án và tài liệu kế hoạch | Develops the project management plan and planning documents
-   - Bao gồm 24 quy trình trong PMBOK 6 | Includes 24 processes in PMBOK 6
+### 1. Nhóm quy trình khởi động | Initiating Process Group
+Xác định dự án mới hoặc giai đoạn mới | Defines a new project or phase
+Lấy ủy quyền để bắt đầu dự án | Obtains authorization to start the project
+Các quy trình chính: Xây dựng điều lệ dự án, Xác định các bên liên quan | Key processes: Develop Project Charter, Identify Stakeholders
 
-3. Nhóm quy trình thực hiện | Executing Process Group
-   - Hoàn thành công việc đã xác định trong kế hoạch quản lý dự án | Completes the work defined in the project management plan
-   - Phối hợp con người và nguồn lực | Coordinates people and resources
-   - Thực hiện các kế hoạch dự án | Implements project plans
-   - Bao gồm 10 quy trình trong PMBOK 6 | Includes 10 processes in PMBOK 6
+### 2. Nhóm quy trình lập kế hoạch | Planning Process Group
+Thiết lập phạm vi, mục tiêu và kế hoạch hành động | Establishes scope, objectives, and course of action
+Phát triển kế hoạch quản lý dự án và tài liệu kế hoạch | Develops the project management plan and planning documents
+Bao gồm 24 quy trình trong PMBOK 6 | Includes 24 processes in PMBOK 6
 
-4. Nhóm quy trình giám sát và kiểm soát | Monitoring and Controlling Process Group
-   - Theo dõi, đánh giá và điều chỉnh tiến độ và hiệu suất dự án | Tracks, reviews, and regulates project progress and performance
-   - Xác định các thay đổi cần thiết cho kế hoạch | Identifies necessary changes to the plan
-   - Bao gồm 12 quy trình trong PMBOK 6 | Includes 12 processes in PMBOK 6
+### 3. Nhóm quy trình thực hiện | Executing Process Group
+Hoàn thành công việc đã xác định trong kế hoạch quản lý dự án | Completes the work defined in the project management plan
+Phối hợp con người và nguồn lực | Coordinates people and resources
+Thực hiện các kế hoạch dự án | Implements project plans
+Bao gồm 10 quy trình trong PMBOK 6 | Includes 10 processes in PMBOK 6
 
-5. Nhóm quy trình đóng dự án | Closing Process Group
-   - Hoàn thành chính thức tất cả các hoạt động | Formally completes all activities
-   - Đóng dự án hoặc giai đoạn | Closes the project or phase
-   - Bao gồm 1 quy trình trong PMBOK 6: Đóng dự án hoặc giai đoạn | Includes 1 process in PMBOK 6: Close Project or Phase
+### 4. Nhóm quy trình giám sát và kiểm soát | Monitoring and Controlling Process Group
+Theo dõi, đánh giá và điều chỉnh tiến độ và hiệu suất dự án | Tracks, reviews, and regulates project progress and performance
+Xác định các thay đổi cần thiết cho kế hoạch | Identifies necessary changes to the plan
+Bao gồm 12 quy trình trong PMBOK 6 | Includes 12 processes in PMBOK 6
+
+### 5. Nhóm quy trình đóng dự án | Closing Process Group
+Hoàn thành chính thức tất cả các hoạt động | Formally completes all activities
+Đóng dự án hoặc giai đoạn | Closes the project or phase
+Bao gồm 1 quy trình trong PMBOK 6: Đóng dự án hoặc giai đoạn | Includes 1 process in PMBOK 6: Close Project or Phase
 
 ## Các lĩnh vực kiến thức quản lý dự án | Project Management Knowledge Areas
-1. Quản lý tích hợp dự án | Project Integration Management
-   - Xác định, định nghĩa, kết hợp, hợp nhất và phối hợp các quy trình và hoạt động | Identifies, defines, combines, unifies, and coordinates processes and activities
-   - Bao gồm phát triển điều lệ dự án, kế hoạch quản lý dự án, quản lý công việc và thay đổi | Includes developing project charter, project management plan, managing work and changes
 
-2. Quản lý phạm vi dự án | Project Scope Management
-   - Đảm bảo dự án bao gồm tất cả công việc cần thiết | Ensures the project includes all work required
-   - Xác định và kiểm soát những gì nằm trong và ngoài dự án | Defines and controls what is and is not included in the project
-   - Bao gồm thu thập yêu cầu, định nghĩa phạm vi, tạo WBS | Includes collecting requirements, defining scope, creating WBS
+### 1. Quản lý tích hợp dự án | Project Integration Management
+Xác định, định nghĩa, kết hợp, hợp nhất và phối hợp các quy trình và hoạt động | Identifies, defines, combines, unifies, and coordinates processes and activities
+Bao gồm phát triển điều lệ dự án, kế hoạch quản lý dự án, quản lý công việc và thay đổi | Includes developing project charter, project management plan, managing work and changes
 
-3. Quản lý lịch trình dự án | Project Schedule Management
-   - Quản lý việc hoàn thành dự án đúng thời hạn | Manages the timely completion of the project
-   - Lập kế hoạch, phát triển, quản lý, thực hiện và kiểm soát lịch trình | Plans, develops, manages, executes, and controls the schedule
-   - Bao gồm xác định hoạt động, trình tự, ước tính tài nguyên và thời gian | Includes defining activities, sequencing, estimating resources and durations
+### 2. Quản lý phạm vi dự án | Project Scope Management
+Đảm bảo dự án bao gồm tất cả công việc cần thiết | Ensures the project includes all work required
+Xác định và kiểm soát những gì nằm trong và ngoài dự án | Defines and controls what is and is not included in the project
+Bao gồm thu thập yêu cầu, định nghĩa phạm vi, tạo WBS | Includes collecting requirements, defining scope, creating WBS
 
-4. Quản lý chi phí dự án | Project Cost Management
-   - Lập kế hoạch, ước tính, lập ngân sách và kiểm soát chi phí | Plans, estimates, budgets, and controls costs
-   - Đảm bảo dự án hoàn thành trong ngân sách được phê duyệt | Ensures project completes within approved budget
-   - Bao gồm ước tính chi phí, xác định ngân sách, kiểm soát chi phí | Includes estimating costs, determining budget, controlling costs
+### 3. Quản lý lịch trình dự án | Project Schedule Management
+Quản lý việc hoàn thành dự án đúng thời hạn | Manages the timely completion of the project
+Lập kế hoạch, phát triển, quản lý, thực hiện và kiểm soát lịch trình | Plans, develops, manages, executes, and controls the schedule
+Bao gồm xác định hoạt động, trình tự, ước tính tài nguyên và thời gian | Includes defining activities, sequencing, estimating resources and durations
 
-5. Quản lý chất lượng dự án | Project Quality Management
-   - Xác định chính sách chất lượng, mục tiêu và trách nhiệm | Defines quality policies, objectives, and responsibilities
-   - Đảm bảo dự án đáp ứng nhu cầu | Ensures project meets requirements
-   - Bao gồm lập kế hoạch, quản lý và kiểm soát chất lượng | Includes planning, managing, and controlling quality
+### 4. Quản lý chi phí dự án | Project Cost Management
+Lập kế hoạch, ước tính, lập ngân sách và kiểm soát chi phí | Plans, estimates, budgets, and controls costs
+Đảm bảo dự án hoàn thành trong ngân sách được phê duyệt | Ensures project completes within approved budget
+Bao gồm ước tính chi phí, xác định ngân sách, kiểm soát chi phí | Includes estimating costs, determining budget, controlling costs
 
-6. Quản lý nguồn lực dự án | Project Resource Management
-   - Xác định, thu thập và quản lý các nguồn lực | Identifies, acquires, and manages resources
-   - Bao gồm nguồn lực vật chất và nhân sự | Includes both physical and team resources
-   - Bao gồm lập kế hoạch, ước tính, thu thập, phát triển, quản lý và kiểm soát nguồn lực | Includes planning, estimating, acquiring, developing, managing, and controlling resources
+### 5. Quản lý chất lượng dự án | Project Quality Management
+Xác định chính sách chất lượng, mục tiêu và trách nhiệm | Defines quality policies, objectives, and responsibilities
+Đảm bảo dự án đáp ứng nhu cầu | Ensures project meets requirements
+Bao gồm lập kế hoạch, quản lý và kiểm soát chất lượng | Includes planning, managing, and controlling quality
 
-7. Quản lý truyền thông dự án | Project Communications Management
-   - Đảm bảo thông tin dự án được tạo, thu thập, phân phối, lưu trữ và xử lý kịp thời và phù hợp | Ensures project information is timely and appropriately generated, collected, distributed, stored, and disposed
-   - Bao gồm lập kế hoạch, quản lý và giám sát truyền thông | Includes planning, managing, and monitoring communications
+### 6. Quản lý nguồn lực dự án | Project Resource Management
+Xác định, thu thập và quản lý các nguồn lực | Identifies, acquires, and manages resources
+Bao gồm nguồn lực vật chất và nhân sự | Includes both physical and team resources
+Bao gồm lập kế hoạch, ước tính, thu thập, phát triển, quản lý và kiểm soát nguồn lực | Includes planning, estimating, acquiring, developing, managing, and controlling resources
 
-8. Quản lý rủi ro dự án | Project Risk Management
-   - Xác định, phân tích, phản hồi và giám sát rủi ro | Identifies, analyzes, responds to, and monitors risks
-   - Tối đa hóa cơ hội và giảm thiểu mối đe dọa | Maximizes opportunities and minimizes threats
-   - Bao gồm lập kế hoạch, xác định, phân tích, phản hồi và giám sát rủi ro | Includes planning, identifying, analyzing, responding to, and monitoring risks
+### 7. Quản lý truyền thông dự án | Project Communications Management
+Đảm bảo thông tin dự án được tạo, thu thập, phân phối, lưu trữ và xử lý kịp thời và phù hợp | Ensures project information is timely and appropriately generated, collected, distributed, stored, and disposed
+Bao gồm lập kế hoạch, quản lý và giám sát truyền thông | Includes planning, managing, and monitoring communications
 
-9. Quản lý mua sắm dự án | Project Procurement Management
-   - Mua hoặc có được sản phẩm, dịch vụ hoặc kết quả từ bên ngoài đội dự án | Purchases or acquires products, services, or results from outside the project team
-   - Bao gồm lập kế hoạch, thực hiện và kiểm soát mua sắm | Includes planning, conducting, and controlling procurements
+### 8. Quản lý rủi ro dự án | Project Risk Management
+Xác định, phân tích, phản hồi và giám sát rủi ro | Identifies, analyzes, responds to, and monitors risks
+Tối đa hóa cơ hội và giảm thiểu mối đe dọa | Maximizes opportunities and minimizes threats
+Bao gồm lập kế hoạch, xác định, phân tích, phản hồi và giám sát rủi ro | Includes planning, identifying, analyzing, responding to, and monitoring risks
 
-10. Quản lý các bên liên quan dự án | Project Stakeholder Management
-    - Xác định, phân tích và tham gia với các bên liên quan | Identifies, analyzes, and engages with stakeholders
-    - Quản lý kỳ vọng và giải quyết vấn đề | Manages expectations and addresses issues
-    - Bao gồm xác định các bên liên quan, lập kế hoạch, quản lý và giám sát sự tham gia | Includes identifying stakeholders, planning, managing, and monitoring engagement
+### 9. Quản lý mua sắm dự án | Project Procurement Management
+Mua hoặc có được sản phẩm, dịch vụ hoặc kết quả từ bên ngoài đội dự án | Purchases or acquires products, services, or results from outside the project team
+Bao gồm lập kế hoạch, thực hiện và kiểm soát mua sắm | Includes planning, conducting, and controlling procurements
+
+### 10. Quản lý các bên liên quan dự án | Project Stakeholder Management
+Xác định, phân tích và tham gia với các bên liên quan | Identifies, analyzes, and engages with stakeholders
+Quản lý kỳ vọng và giải quyết vấn đề | Manages expectations and addresses issues
+Bao gồm xác định các bên liên quan, lập kế hoạch, quản lý và giám sát sự tham gia | Includes identifying stakeholders, planning, managing, and monitoring engagement
 
 ## Cấu trúc tổ chức và ảnh hưởng đến dự án | Organizational Structures and Their Influence on Projects
 1. Cấu trúc chức năng | Functional Structure

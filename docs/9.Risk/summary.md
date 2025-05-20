@@ -14,13 +14,27 @@
 - **Rủi ro tổng thể dự án | Overall Project Risk**: Tác động của sự không chắc chắn đối với dự án nói chung | Effect of uncertainty on the project as a whole
 
 ## Các quy trình quản lý rủi ro | Risk Management Processes
-1. **Lập kế hoạch quản lý rủi ro | Plan Risk Management**: Xác định cách thực hiện hoạt động quản lý rủi ro cho dự án | Defining how to conduct risk management activities for the project
-2. **Xác định rủi ro | Identify Risks**: Xác định rủi ro cá nhân và nguồn rủi ro tổng thể của dự án | Identifying individual risks and sources of overall project risk
-3. **Thực hiện phân tích rủi ro định tính | Perform Qualitative Risk Analysis**: Ưu tiên rủi ro bằng cách đánh giá khả năng xảy ra và tác động | Prioritizing risks by assessing probability and impact
-4. **Thực hiện phân tích rủi ro định lượng | Perform Quantitative Risk Analysis**: Phân tích bằng số tác động của rủi ro đã xác định đối với mục tiêu dự án | Numerically analyzing the effect of identified risks on project objectives
-5. **Lập kế hoạch ứng phó rủi ro | Plan Risk Responses**: Xây dựng phương án và hành động để giải quyết rủi ro | Developing options and actions to address risks
-6. **Thực hiện ứng phó rủi ro | Implement Risk Responses**: Thực hiện kế hoạch ứng phó rủi ro đã thống nhất | Implementing agreed-upon risk response plans
-7. **Giám sát rủi ro | Monitor Risks**: Theo dõi việc thực hiện kế hoạch, theo dõi rủi ro đã xác định, xác định rủi ro mới | Tracking implementation of plans, monitoring identified risks, identifying new risks
+
+### 1. Lập kế hoạch quản lý rủi ro | Plan Risk Management
+Xác định cách thực hiện hoạt động quản lý rủi ro cho dự án | Defining how to conduct risk management activities for the project
+
+### 2. Xác định rủi ro | Identify Risks
+Xác định rủi ro cá nhân và nguồn rủi ro tổng thể của dự án | Identifying individual risks and sources of overall project risk
+
+### 3. Thực hiện phân tích rủi ro định tính | Perform Qualitative Risk Analysis
+Ưu tiên rủi ro bằng cách đánh giá khả năng xảy ra và tác động | Prioritizing risks by assessing probability and impact
+
+### 4. Thực hiện phân tích rủi ro định lượng | Perform Quantitative Risk Analysis
+Phân tích bằng số tác động của rủi ro đã xác định đối với mục tiêu dự án | Numerically analyzing the effect of identified risks on project objectives
+
+### 5. Lập kế hoạch ứng phó rủi ro | Plan Risk Responses
+Xây dựng phương án và hành động để giải quyết rủi ro | Developing options and actions to address risks
+
+### 6. Thực hiện ứng phó rủi ro | Implement Risk Responses
+Thực hiện kế hoạch ứng phó rủi ro đã thống nhất | Implementing agreed-upon risk response plans
+
+### 7. Giám sát rủi ro | Monitor Risks
+Theo dõi việc thực hiện kế hoạch, theo dõi rủi ro đã xác định, xác định rủi ro mới | Tracking implementation of plans, monitoring identified risks, identifying new risks
 
 ## Kỹ thuật xác định rủi ro | Risk Identification Techniques
 - **Brainstorming | Brainstorming**: Thu thập ý tưởng từ nhóm về rủi ro tiềm ẩn | Gathering ideas from a group about potential risks
@@ -46,6 +60,7 @@
 - **Mô phỏng Monte Carlo | Monte Carlo Simulation**: Kỹ thuật mô phỏng máy tính để mô hình hóa tác động tổng hợp của rủi ro | Computer simulation technique to model combined effects of risks
 
 ## Chiến lược ứng phó rủi ro | Risk Response Strategies
+
 ### Chiến lược dành cho mối đe dọa (tiêu cực) | Strategies for Threats (Negative)
 - **Né tránh | Avoid**: Thay đổi kế hoạch dự án để loại bỏ rủi ro hoặc bảo vệ mục tiêu dự án | Changing the project plan to eliminate the risk or protect project objectives
 - **Chuyển giao | Transfer**: Chuyển tác động của rủi ro và trách nhiệm ứng phó cho bên thứ ba | Shifting impact of risk and response responsibility to a third party
