@@ -1,11 +1,284 @@
-# Lập kế hoạch thích ứng trong dự án (Project Adaptive Planning)
+# Lập kế hoạch thích ứng trong dự án | Project Adaptive Planning
 
-## Định nghĩa và tầm quan trọng (Definition and Importance)
+## Định nghĩa và tầm quan trọng | Definition and Importance
 
-**Lập kế hoạch thích ứng** là phương pháp lập kế hoạch linh hoạt và lặp đi lặp lại, cho phép điều chỉnh khi có thông tin mới hoặc thay đổi trong dự án, phổ biến trong các phương pháp Agile.
+**Lập kế hoạch thích ứng** là phương pháp lập kế hoạch linh hoạt và lặp đi lặp lại, cho phép điều chỉnh khi có thông tin mới hoặc thay đổi trong dự án, phổ biến trong các phương pháp Agile. | **Adaptive Planning** is a flexible and iterative planning approach that allows for adjustments as new information emerges or changes occur in the project, common in Agile methodologies.
 
-**Adaptive Planning** is a flexible and iterative planning approach that allows for adjustments as new information emerges or changes occur in the project, common in Agile methodologies.
+**Tầm quan trọng | Importance:**
+- Phù hợp với môi trường có nhiều thay đổi và không chắc chắn | Suitable for environments with high change and uncertainty
+- Tăng khả năng đáp ứng nhu cầu của bên liên quan | Increases ability to respond to stakeholder needs
+- Cho phép phát triển và điều chỉnh liên tục | Allows for continuous development and adjustment
+- Cải thiện giá trị dự án thông qua phản hồi nhanh | Improves project value through rapid feedback
+- Giảm rủi ro thông qua chu kỳ phát triển ngắn | Reduces risk through short development cycles
 
+## Nguyên tắc của lập kế hoạch thích ứng | Principles of Adaptive Planning
+
+### 1. Lập kế hoạch cuốn chiếu | Rolling Wave Planning
+- Lập kế hoạch chi tiết cho công việc gần, kế hoạch tổng quát cho công việc xa | Detailed planning for near-term work, high-level planning for distant work
+- Cập nhật kế hoạch khi có thêm thông tin | Updating plans as more information becomes available
+- Cho phép linh hoạt và điều chỉnh khi cần thiết | Allowing flexibility and adjustments as needed
+- Tận dụng kiến thức và kinh nghiệm mới thu được | Leveraging newly acquired knowledge and experience
+
+### 2. Lặp đi lặp lại và gia tăng | Iterative and Incremental
+- Chia dự án thành các phần nhỏ có thể quản lý (lặp) | Breaking project into manageable pieces (iterations)
+- Phát triển sản phẩm qua nhiều chu kỳ (gia tăng) | Developing products through multiple cycles (increments)
+- Mỗi lặp tạo ra một phiên bản hoạt động của sản phẩm | Each iteration produces a working version of the product
+- Cho phép phản hồi sớm và liên tục từ bên liên quan | Allows for early and continuous feedback from stakeholders
+
+### 3. Thích ứng với thay đổi | Embracing Change
+- Thay đổi được xem là cơ hội, không phải mối đe dọa | Change is viewed as an opportunity, not a threat
+- Cấu trúc quy trình để xử lý thay đổi hiệu quả | Process structured to handle change efficiently
+- Tập trung vào việc tạo ra giá trị hơn là tuân theo kế hoạch | Focus on delivering value rather than following a plan
+- Ưu tiên đáp ứng nhu cầu bên liên quan thay vì tuân thủ thông số kỹ thuật cố định | Prioritizing stakeholder needs over adhering to fixed specifications
+
+### 4. Tầm nhìn cố định, chi tiết linh hoạt | Fixed Vision, Flexible Details
+- Mục tiêu và tầm nhìn tổng thể của dự án vẫn ổn định | Overall project goals and vision remain stable
+- Chi tiết thực hiện có thể điều chỉnh theo nhu cầu | Implementation details can adjust as needed
+- Duy trì sự cân bằng giữa hướng dẫn chiến lược và linh hoạt chiến thuật | Maintaining balance between strategic guidance and tactical flexibility
+- Đảm bảo dự án vẫn đi đúng hướng trong khi thích ứng với thay đổi | Ensuring project stays on track while adapting to changes
+
+## Phương pháp lập kế hoạch thích ứng | Adaptive Planning Methods
+
+### 1. Lập kế hoạch Agile | Agile Planning
+
+#### a. Kế hoạch phát hành | Release Planning
+- Xác định các mục tiêu và lộ trình phát hành | Identifying release goals and roadmap
+- Ưu tiên các tính năng dựa trên giá trị kinh doanh | Prioritizing features based on business value
+- Ước tính thời gian và nguồn lực cần thiết | Estimating timeframes and resources needed
+- Thường được cập nhật qua mỗi lần lặp | Typically updated through each iteration
+
+#### b. Lập kế hoạch Sprint | Sprint Planning
+- Lập kế hoạch chi tiết cho chu kỳ ngắn (thường 1-4 tuần) | Detailed planning for short cycles (typically 1-4 weeks)
+- Chọn các hạng mục từ Product Backlog để thực hiện | Selecting items from Product Backlog to implement
+- Xác định nhiệm vụ cụ thể và ước tính công sức | Identifying specific tasks and estimating effort
+- Cam kết về những gì có thể hoàn thành | Committing to what can be accomplished
+
+#### c. Lập kế hoạch hàng ngày | Daily Planning
+- Cuộc họp ngắn hàng ngày (Daily Scrum/Standup) | Short daily meetings (Daily Scrum/Standup)
+- Chia sẻ tiến độ, kế hoạch và rào cản | Sharing progress, plans, and impediments
+- Điều chỉnh kế hoạch ngắn hạn nếu cần | Adjusting short-term plans if needed
+- Tập trung vào việc đạt được mục tiêu sprint | Focusing on achieving sprint goals
+
+### 2. Lập kế hoạch dựa trên giá trị | Value-Based Planning
+
+- Ưu tiên công việc dựa trên giá trị tạo ra cho khách hàng | Prioritizing work based on customer value creation
+- Sử dụng các kỹ thuật như lập bản đồ giá trị (value stream mapping) | Using techniques like value stream mapping
+- Tập trung vào việc cung cấp giá trị sớm và liên tục | Focusing on delivering value early and continuously
+- Loại bỏ các hoạt động không tạo giá trị | Eliminating activities that don't create value
+
+### 3. Lập kế hoạch theo Kanban | Kanban Planning
+
+- Hệ thống trực quan để quản lý công việc | Visual system for managing work
+- Giới hạn công việc đang thực hiện (WIP - Work in Progress) | Limiting work in progress (WIP)
+- Lập kế hoạch liên tục thay vì theo chu kỳ cố định | Continuous planning rather than fixed cycles
+- Tập trung vào thời gian chu kỳ và luồng công việc | Focus on cycle time and work flow
+
+### 4. Lập kế hoạch dựa trên tính năng | Feature-Driven Planning
+
+- Tổ chức kế hoạch xung quanh các tính năng có thể bàn giao | Organizing plans around deliverable features
+- Phát triển từng tính năng từ đầu đến cuối trước khi chuyển sang tính năng khác | Developing each feature from start to finish before moving to the next
+- Tập trung vào tạo ra các tính năng hoàn chỉnh, có thể sử dụng được | Focus on creating complete, usable features
+- Cho phép ưu tiên lại các tính năng dựa trên nhu cầu | Allows reprioritization of features based on needs
+
+## Công cụ và kỹ thuật | Tools and Techniques
+
+### 1. Product Backlog | Product Backlog
+- Danh sách ưu tiên các tính năng và yêu cầu cần triển khai | Prioritized list of features and requirements to implement
+- Được quản lý bởi Product Owner | Managed by Product Owner
+- Liên tục được cập nhật, tinh chỉnh và ưu tiên lại | Continuously updated, refined, and reprioritized
+- Nguồn duy nhất cho các yêu cầu của nhóm phát triển | Single source for development team requirements
+
+### 2. User Stories | User Stories
+- Mô tả chức năng từ góc nhìn người dùng | Describing functionality from user perspective
+- Định dạng: "Là [vai trò], tôi muốn [hành động] để [lợi ích]" | Format: "As a [role], I want [action] so that [benefit]"
+- Được ước tính bằng điểm câu chuyện (story points) hoặc ngày lý tưởng | Estimated using story points or ideal days
+- Bao gồm tiêu chí chấp nhận để xác định khi nào hoàn thành | Includes acceptance criteria to define when complete
+
+### 3. Lập kế hoạch Poker | Planning Poker
+- Kỹ thuật ước tính dựa trên đồng thuận | Consensus-based estimation technique
+- Sử dụng thẻ có giá trị Fibonacci (1, 2, 3, 5, 8, 13, 21...) | Using cards with Fibonacci values (1, 2, 3, 5, 8, 13, 21...)
+- Thành viên nhóm chọn thẻ đồng thời để tránh bị ảnh hưởng | Team members select cards simultaneously to avoid bias
+- Thảo luận để giải quyết những khác biệt lớn trong ước tính | Discussion to resolve large differences in estimates
+
+### 4. Bảng Kanban | Kanban Board
+- Bảng trực quan hiển thị công việc và trạng thái | Visual board showing work and status
+- Các cột thường bao gồm: Backlog, Doing, Done, và các trạng thái khác | Columns typically include: Backlog, Doing, Done, and other statuses
+- Giới hạn WIP để cải thiện luồng công việc | WIP limits to improve workflow
+- Cung cấp quan điểm tổng thể về tiến độ và rào cản | Provides overview of progress and impediments
+
+### 5. Biểu đồ Burndown/Burnup | Burndown/Burnup Charts
+- Biểu đồ hiển thị công việc đã hoàn thành so với thời gian | Charts showing work completed versus time
+- Burndown: Hiển thị công việc còn lại | Burndown: Shows work remaining
+- Burnup: Hiển thị công việc đã hoàn thành | Burnup: Shows work completed
+- Công cụ để theo dõi tiến độ và dự báo hoàn thành | Tool for tracking progress and forecasting completion
+
+### 6. Họp cải tiến | Retrospectives
+- Cuộc họp định kỳ để xem xét quy trình và cải thiện | Regular meetings to review process and improve
+
+## Thực hiện lập kế hoạch thích ứng | Implementing Adaptive Planning
+
+### 1. Xác định khung Agile phù hợp | Selecting Appropriate Agile Framework
+- Chọn phương pháp phù hợp với dự án và tổ chức (Scrum, Kanban, XP) | Choosing method appropriate for project and organization (Scrum, Kanban, XP)
+- Tùy chỉnh quy trình để phù hợp với nhu cầu cụ thể | Customizing process to fit specific needs
+- Cân nhắc quy mô, phức tạp, và văn hóa tổ chức | Considering scale, complexity, and organizational culture
+- Đảm bảo mọi người hiểu và cam kết với phương pháp | Ensuring everyone understands and commits to the approach
+
+### 2. Thiết lập cấu trúc nhóm Agile | Establishing Agile Team Structure
+- Xây dựng nhóm đa chức năng, tự tổ chức | Building cross-functional, self-organizing teams
+- Xác định vai trò: Product Owner, Scrum Master, nhóm phát triển | Defining roles: Product Owner, Scrum Master, development team
+- Tạo môi trường hợp tác và giao tiếp mở | Creating collaborative environment and open communication
+- Đảm bảo nhóm có quyền tự quyết để lập kế hoạch hiệu quả | Ensuring team has autonomy to plan effectively
+
+### 3. Thiết lập nhịp điệu | Establishing Cadence
+- Xác định độ dài lặp (sprint) phù hợp (1-4 tuần) | Defining appropriate iteration (sprint) length (1-4 weeks)
+- Tạo lịch các sự kiện thường xuyên (planning, review, retrospective) | Creating schedule of regular events (planning, review, retrospective)
+- Duy trì nhịp điệu nhất quán để tạo thói quen và khả năng dự đoán | Maintaining consistent cadence for habits and predictability
+- Điều chỉnh nhịp điệu dựa trên phản hồi và hiệu suất nhóm | Adjusting cadence based on feedback and team performance
+
+### 4. Quản lý backlog | Managing the Backlog
+- Xây dựng và duy trì Product Backlog | Building and maintaining the Product Backlog
+- Thường xuyên tinh chỉnh và ưu tiên lại các hạng mục | Regularly refining and reprioritizing items
+- Đảm bảo các hạng mục có kích thước phù hợp và được định nghĩa rõ ràng | Ensuring items are appropriately sized and clearly defined
+- Sử dụng phản hồi từ các lần lặp để cập nhật Backlog | Using feedback from iterations to update Backlog
+
+### 5. Ước tính và theo dõi thích ứng | Adaptive Estimation and Tracking
+- Sử dụng ước tính tương đối (story points) hơn là thời gian tuyệt đối | Using relative estimation (story points) rather than absolute time
+- Cải thiện ước tính dựa trên dữ liệu lịch sử và vận tốc | Improving estimates based on historical data and velocity
+- Sử dụng biểu đồ burndown/burnup để theo dõi tiến độ | Using burndown/burnup charts to track progress
+- Điều chỉnh phạm vi hoặc thời gian dựa trên hiệu suất thực tế | Adjusting scope or timeframe based on actual performance
+
+### 6. Tích hợp phản hồi | Incorporating Feedback
+- Thu thập phản hồi thường xuyên từ bên liên quan | Gathering regular feedback from stakeholders
+- Tổ chức các buổi demo sản phẩm sau mỗi lần lặp | Organizing product demos after each iteration
+- Điều chỉnh ưu tiên và kế hoạch dựa trên phản hồi | Adjusting priorities and plans based on feedback
+- Tạo vòng phản hồi nhanh để đáp ứng thay đổi | Creating rapid feedback loops to respond to changes
+
+## Thử thách và giải pháp | Challenges and Solutions
+
+### 1. Quản lý thay đổi | Managing Change
+
+**Thách thức:**
+- Thay đổi thường xuyên có thể gây mất ổn định | Frequent changes can cause instability
+- Khó đảm bảo phạm vi và kiểm soát ngân sách | Difficult to ensure scope and budget control
+- Bên liên quan có thể yêu cầu thay đổi không ngừng | Stakeholders may request endless changes
+
+**Giải pháp:**
+- Thiết lập quy trình thay đổi rõ ràng | Establish clear change processes
+- Sử dụng kỳ thực hiện (sprint) để kiểm soát khi nào thay đổi được thực hiện | Use sprints to control when changes are implemented
+- Đánh giá tác động của thay đổi trước khi chấp nhận | Evaluate impact of changes before accepting
+- Duy trì tầm nhìn tổng thể ổn định | Maintain stable overall vision
+
+**Challenges:**
+- Frequent changes can cause instability | Frequent changes can cause instability
+- Difficult to ensure scope and budget control | Difficult to ensure scope and budget control
+- Stakeholders may request endless changes | Stakeholders may request endless changes
+
+**Solutions:**
+- Establish clear change processes | Establish clear change processes
+- Use sprints to control when changes are implemented | Use sprints to control when changes are implemented
+- Evaluate impact of changes before accepting | Evaluate impact of changes before accepting
+- Maintain stable overall vision | Maintain stable overall vision
+
+### 2. Phối hợp với dự án truyền thống | Coordinating with Traditional Projects
+
+**Thách thức:**
+- Khó kết hợp phương pháp thích ứng với phương pháp thác nước | Difficult to combine adaptive with waterfall methods
+- Các hệ thống báo cáo và quản trị khác nhau | Different reporting and governance systems
+- Các phụ thuộc giữa các nhóm Agile và không Agile | Dependencies between Agile and non-Agile teams
+
+**Giải pháp:**
+- Sử dụng phương pháp lai (hybrid) khi cần thiết | Use hybrid approaches when necessary
+- Tạo điểm kết nối và cơ chế báo cáo chung | Create integration points and common reporting mechanisms
+- Xác định rõ các phụ thuộc và mốc quan trọng | Clearly identify dependencies and milestones
+- Tăng cường giao tiếp giữa các nhóm | Enhance communication between teams
+
+**Challenges:**
+- Difficult to combine adaptive with waterfall methods | Difficult to combine adaptive with waterfall methods
+- Different reporting and governance systems | Different reporting and governance systems
+- Dependencies between Agile and non-Agile teams | Dependencies between Agile and non-Agile teams
+
+**Solutions:**
+- Use hybrid approaches when necessary | Use hybrid approaches when necessary
+- Create integration points and common reporting mechanisms | Create integration points and common reporting mechanisms
+- Clearly identify dependencies and milestones | Clearly identify dependencies and milestones
+- Enhance communication between teams | Enhance communication between teams
+
+### 3. Ước tính và dự báo | Estimation and Forecasting
+
+**Thách thức:**
+- Khó ước tính chính xác trước khi bắt đầu | Difficult to estimate accurately upfront
+- Áp lực cung cấp cam kết dài hạn | Pressure to provide long-term commitments
+- Vận tốc nhóm có thể thay đổi theo thời gian | Team velocity may vary over time
+
+**Giải pháp:**
+- Sử dụng ước tính tương đối và dải ước tính | Use relative estimation and estimation ranges
+- Thực hiện dự báo dựa trên vận tốc thực tế | Perform forecasting based on actual velocity
+- Cập nhật dự báo thường xuyên khi có thêm thông tin | Update forecasts regularly as more information becomes available
+- Sử dụng phương pháp lập kế hoạch cuốn chiếu | Use rolling wave planning approach
+
+**Challenges:**
+- Difficult to estimate accurately upfront | Difficult to estimate accurately upfront
+- Pressure to provide long-term commitments | Pressure to provide long-term commitments
+- Team velocity may vary over time | Team velocity may vary over time
+
+**Solutions:**
+- Use relative estimation and estimation ranges | Use relative estimation and estimation ranges
+- Perform forecasting based on actual velocity | Perform forecasting based on actual velocity
+- Update forecasts regularly as more information becomes available | Update forecasts regularly as more information becomes available
+- Use rolling wave planning approach | Use rolling wave planning approach
+
+### 4. Mở rộng quy mô | Scaling
+
+**Thách thức:**
+- Khó phối hợp nhiều nhóm Agile | Difficult to coordinate multiple Agile teams
+- Phụ thuộc giữa các nhóm có thể gây chậm trễ | Dependencies between teams can cause delays
+- Duy trì tính nhất quán khi mở rộng | Maintaining consistency when scaling
+
+**Giải pháp:**
+- Sử dụng khung mở rộng như SAFe, LeSS, Nexus | Use scaling frameworks like SAFe, LeSS, Nexus
+- Tổ chức các cuộc họp Scrum of Scrums | Organize Scrum of Scrums meetings
+- Điều chỉnh quy trình để phù hợp với quy mô | Adjust processes to fit scale
+- Sử dụng công cụ quản lý Agile ở quy mô lớn | Use enterprise Agile management tools
+
+**Challenges:**
+- Difficult to coordinate multiple Agile teams | Difficult to coordinate multiple Agile teams
+- Dependencies between teams can cause delays | Dependencies between teams can cause delays
+- Maintaining consistency when scaling | Maintaining consistency when scaling
+
+**Solutions:**
+- Use scaling frameworks like SAFe, LeSS, Nexus | Use scaling frameworks like SAFe, LeSS, Nexus
+- Organize Scrum of Scrums meetings | Organize Scrum of Scrums meetings
+- Adjust processes to fit scale | Adjust processes to fit scale
+- Use enterprise Agile management tools | Use enterprise Agile management tools
+
+### 5. Sự chấp nhận tổ chức | Organizational Adoption
+
+**Thách thức:**
+- Kháng cự với sự thay đổi từ phương pháp truyền thống | Resistance to change from traditional methods
+- Văn hóa tổ chức có thể không phù hợp với Agile | Organizational culture may not align with Agile
+- Thiếu sự hỗ trợ từ quản lý cấp cao | Lack of support from senior management
+
+**Giải pháp:**
+- Giáo dục lãnh đạo về lợi ích của phương pháp thích ứng | Educate leadership on benefits of adaptive approaches
+- Bắt đầu với dự án thí điểm và chia sẻ thành công | Start with pilot projects and share successes
+- Tạo cơ hội đào tạo và phát triển | Create training and development opportunities
+- Điều chỉnh quy trình để phù hợp với văn hóa tổ chức | Tailor processes to fit organizational culture
+
+**Challenges:**
+- Resistance to change from traditional methods | Resistance to change from traditional methods
+- Organizational culture may not align with Agile | Organizational culture may not align with Agile
+- Lack of support from senior management | Lack of support from senior management
+
+**Solutions:**
+- Educate leadership on benefits of adaptive approaches | Educate leadership on benefits of adaptive approaches
+- Start with pilot projects and share successes | Start with pilot projects and share successes
+- Create training and development opportunities | Create training and development opportunities
+- Tailor processes to fit organizational culture | Tailor processes to fit organizational culture
+
+## Đo lường hiệu suất | Measuring Performance
+
+### 1. Vận tốc | Velocity
+- Đo lường công việc hoàn thành trong mỗi lần lặp | Measuring work completed in each iteration
 **Tầm quan trọng:**
 - Phù hợp với môi trường có nhiều thay đổi và không chắc chắn
 - Tăng khả năng đáp ứng nhu cầu của bên liên quan

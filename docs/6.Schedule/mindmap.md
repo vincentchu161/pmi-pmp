@@ -1,116 +1,131 @@
-# Mindmap - Quản lý lịch trình dự án (Schedule Management)
+# Mindmap - Quản lý lịch trình dự án | Project Schedule Management
 
-## Quy trình quản lý lịch trình
-- Lập kế hoạch quản lý lịch trình
-  - Xác định phương pháp lập lịch
-  - Định nghĩa đơn vị đo
-  - Thiết lập ngưỡng kiểm soát
-  - Định dạng báo cáo
-- Xác định hoạt động
-  - Phân rã từ WBS
-  - Danh sách hoạt động
-  - Thuộc tính hoạt động
-  - Danh sách mũ neo
-- Sắp xếp các hoạt động
-  - Phương pháp tiền nhiệm (PDM)
-  - Quan hệ logic
-    - Kết thúc-Bắt đầu (FS)
-    - Bắt đầu-Bắt đầu (SS)
-    - Kết thúc-Kết thúc (FF)
-    - Bắt đầu-Kết thúc (SF)
-  - Lead và Lag
-  - Biểu đồ mạng
-- Ước tính thời gian hoạt động
-  - Ước tính điểm
-  - Ước tính tham số
-  - Ước tính ba điểm (PERT)
-    - Lạc quan (O)
-    - Khả năng nhất (M)
-    - Bi quan (P)
-    - Trung bình: (O+4M+P)/6
-  - Dự trữ thời gian
-- Phát triển lịch trình
-  - Phân tích mạng
-  - Phương pháp đường găng (CPM)
-  - Tối ưu hóa nguồn lực
-  - Nén lịch trình
-    - Fast tracking
-    - Crashing
-  - Biểu đồ Gantt
-  - Đường cơ sở lịch trình
-- Kiểm soát lịch trình
-  - Đo lường tiến độ
-  - Phân tích sai lệch
-  - Báo cáo tiến độ
-  - Yêu cầu thay đổi
+## Quy trình quản lý lịch trình | Schedule Management Processes
+- Lập kế hoạch quản lý lịch trình | Plan Schedule Management
+  - Xác định phương pháp lập lịch | Define scheduling methodology
+  - Định nghĩa đơn vị đo | Define units of measure
+  - Thiết lập ngưỡng kiểm soát | Establish control thresholds
+  - Định dạng báo cáo | Report formats
+- Xác định hoạt động | Define Activities
+  - Phân rã từ WBS | Decomposition from WBS
+  - Danh sách hoạt động | Activity list
+  - Thuộc tính hoạt động | Activity attributes
+  - Danh sách mũ neo | Milestone list
+- Sắp xếp các hoạt động | Sequence Activities
+  - Phương pháp tiền nhiệm (PDM) | Precedence Diagramming Method (PDM)
+  - Quan hệ logic | Logical relationships
+    - Kết thúc-Bắt đầu (FS) | Finish-to-Start (FS)
+    - Bắt đầu-Bắt đầu (SS) | Start-to-Start (SS)
+    - Kết thúc-Kết thúc (FF) | Finish-to-Finish (FF)
+    - Bắt đầu-Kết thúc (SF) | Start-to-Finish (SF)
+  - Lead và Lag | Lead and Lag
+  - Biểu đồ mạng | Network diagram
+- Ước tính thời gian hoạt động | Estimate Activity Durations
+  - Ước tính điểm | Point estimation
+  - Ước tính tham số | Parametric estimation
+  - Ước tính ba điểm (PERT) | Three-point estimates (PERT)
+    - Lạc quan (O) | Optimistic (O)
+    - Khả năng nhất (M) | Most likely (M)
+    - Bi quan (P) | Pessimistic (P)
+    - Trung bình | Average: (O+4M+P)/6
+  - Dự trữ thời gian | Schedule reserves
+- Phát triển lịch trình | Develop Schedule
+  - Phân tích mạng | Network analysis
+  - Phương pháp đường găng (CPM) | Critical Path Method (CPM)
+  - Tối ưu hóa nguồn lực | Resource optimization
+  - Nén lịch trình | Schedule compression
+    - Fast tracking | Fast tracking
+    - Crashing | Crashing
+  - Biểu đồ Gantt | Gantt chart
+  - Đường cơ sở lịch trình | Schedule baseline
+- Kiểm soát lịch trình | Control Schedule
+  - Đo lường tiến độ | Progress measurement
+  - Phân tích sai lệch | Variance analysis
+  - Báo cáo tiến độ | Progress reporting
+  - Yêu cầu thay đổi | Change requests
 
-## Kỹ thuật lập lịch trình
-- Phương pháp đường găng (CPM)
-  - Xác định chuỗi hoạt động dài nhất
-  - Thời gian sớm nhất bắt đầu (ES)
-  - Thời gian sớm nhất kết thúc (EF)
-  - Thời gian trễ nhất bắt đầu (LS)
-  - Thời gian trễ nhất kết thúc (LF)
-  - Thời gian nổi (Float)
-- PERT
-  - Ước tính ba điểm
-  - Phân tích xác suất
-  - Biểu đồ PERT
-- Phương pháp chuỗi tới hạn (CCM)
-  - Đệm hoạt động
-  - Đệm dự án
-  - Đệm nguồn lực
-- Phương pháp Agile
-  - Sprint/Iteration
-  - Burndown chart
-  - Velocity
+## Kỹ thuật lập lịch trình | Scheduling Techniques
+- Phương pháp đường găng (CPM) | Critical Path Method (CPM)
+  - Xác định chuỗi hoạt động dài nhất | Identify longest sequence of activities
+  - Thời gian sớm nhất bắt đầu (ES) | Early Start (ES)
+  - Thời gian sớm nhất kết thúc (EF) | Early Finish (EF)
+  - Thời gian trễ nhất bắt đầu (LS) | Late Start (LS)
+  - Thời gian trễ nhất kết thúc (LF) | Late Finish (LF)
+  - Thời gian nổi (Float) | Float time
+- PERT | Program Evaluation and Review Technique (PERT)
+  - Ước tính ba điểm | Three-point estimation
+  - Phân tích xác suất | Probability analysis
+  - Biểu đồ PERT | PERT chart
+- Phương pháp chuỗi tới hạn (CCM) | Critical Chain Method (CCM)
+  - Đệm hoạt động | Activity buffer
+  - Đệm dự án | Project buffer
+  - Đệm nguồn lực | Resource buffer
+- Phương pháp Agile | Agile Methods
+  - Sprint/Iteration | Sprint/Iteration
+  - Burndown chart | Burndown chart
+  - Velocity | Velocity
 
-## Tối ưu hóa lịch trình
-- Nén lịch trình
-  - Fast tracking
-    - Thực hiện song song/chồng chéo
-    - Tăng rủi ro
-  - Crashing
-    - Thêm nguồn lực
-    - Tăng chi phí
-    - So sánh chi phí-lợi ích
-- Điều chỉnh nguồn lực
-  - Cân bằng nguồn lực
-  - Làm phẳng nguồn lực
-  - Phân bổ lại nguồn lực
-- Phân tích kịch bản
-  - What-if
-  - Mô phỏng Monte Carlo
+## Tối ưu hóa lịch trình | Schedule Optimization
+- Nén lịch trình | Schedule Compression
+  - Fast tracking | Fast tracking
+    - Thực hiện song song/chồng chéo | Perform in parallel/overlap
+    - Tăng rủi ro | Increases risk
+  - Crashing | Crashing
+    - Thêm nguồn lực | Add resources
+    - Tăng chi phí | Increases cost
+    - So sánh chi phí-lợi ích | Cost-benefit analysis
+- Điều chỉnh nguồn lực | Resource Adjustment
+  - Cân bằng nguồn lực | Resource leveling
+  - Làm phẳng nguồn lực | Resource smoothing
+  - Phân bổ lại nguồn lực | Resource reallocation
+- Phân tích kịch bản | Scenario Analysis
+  - What-if | What-if analysis
+  - Mô phỏng Monte Carlo | Monte Carlo simulation
 
-## Khái niệm quan trọng
-- Đường găng
-  - Hoạt động găng
-  - Không có thời gian nổi
-  - Xác định thời gian dự án
-- Thời gian nổi
-  - Thời gian nổi tổng thể (Total Float)
-  - Thời gian nổi tự do (Free Float)
-  - Thời gian nổi dự án (Project Float)
-- Ràng buộc lịch trình
-  - Bắt buộc (Mandatory)
-  - Tùy ý (Discretionary)
-  - Bên ngoài (External)
-  - Bên trong (Internal)
-- Mũ neo (Milestone)
-  - Điểm kiểm tra
-  - Sự kiện quan trọng
-  - Không có thời lượng
+## Khái niệm quan trọng | Key Concepts
+- Đường găng | Critical Path
+  - Hoạt động găng | Critical activities
+  - Không có thời gian nổi | Zero float
+  - Xác định thời gian dự án | Determines project duration
+- Thời gian nổi | Float Time
+  - Thời gian nổi tổng thể (Total Float) | Total Float
+  - Thời gian nổi tự do (Free Float) | Free Float
+  - Thời gian nổi dự án (Project Float) | Project Float
+- Ràng buộc lịch trình | Schedule Constraints
+  - Bắt buộc (Mandatory) | Mandatory constraints
+  - Tùy ý (Discretionary) | Discretionary constraints
+  - Bên ngoài (External) | External constraints
+  - Bên trong (Internal) | Internal constraints
+- Mũ neo (Milestone) | Milestone
+  - Điểm kiểm tra | Checkpoint
+  - Sự kiện quan trọng | Significant event
+  - Không có thời lượng | Zero duration
 
-## Công cụ trực quan hóa
-- Biểu đồ Gantt
-  - Thanh ngang thể hiện thời gian
-  - Dễ hiểu, phổ biến
-  - Thể hiện quan hệ phụ thuộc
-- Biểu đồ mạng
-  - AON (Activity-on-Node)
-  - AOA (Activity-on-Arrow)
-  - Thể hiện mối quan hệ logic
-- S-Curve
-  - Thể hiện tiến độ tích lũy
-  - So sánh kế hoạch vs thực tế
-  - Dự báo xu hướng 
+## Công cụ trực quan hóa | Visualization Tools
+- Biểu đồ Gantt | Gantt Chart
+  - Thanh ngang thể hiện thời gian | Horizontal bars representing duration
+  - Dễ hiểu, phổ biến | Easy to understand, popular
+  - Thể hiện quan hệ phụ thuộc | Shows dependencies
+- Biểu đồ mạng | Network Diagram
+  - AON (Activity-on-Node) | AON (Activity-on-Node)
+  - AOA (Activity-on-Arrow) | AOA (Activity-on-Arrow)
+  - Thể hiện mối quan hệ logic | Shows logical relationships
+- S-Curve | S-Curve
+  - Thể hiện tiến độ tích lũy | Shows cumulative progress
+  - So sánh kế hoạch vs thực tế | Compares planned vs. actual
+  - Dự báo xu hướng | Forecasts trends
+
+## Mẹo thi PMP | PMP Exam Tips
+- Trình tự quy trình | Process Sequence
+  - Hiểu thứ tự của 6 quy trình | Understand sequence of 6 processes
+  - Biết nhóm quy trình tương ứng | Know corresponding process groups
+- Tính toán | Calculations
+  - Công thức PERT | PERT formula
+  - Tính thời gian nổi | Calculate float
+  - Xác định đường găng | Identify critical path
+- Kỹ thuật nén lịch trình | Schedule Compression
+  - Fast tracking trước crashing | Fast tracking before crashing
+  - Hiểu ưu/nhược điểm | Understand pros/cons
+- Xung đột nguồn lực | Resource Conflicts
+  - Giải quyết xung đột | Resolve conflicts
+  - Thứ tự ưu tiên | Prioritization 

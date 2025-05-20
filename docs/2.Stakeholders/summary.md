@@ -1,351 +1,189 @@
-# Quản lý các bên liên quan (Stakeholder Management)
+# Quản lý các bên liên quan | Stakeholder Management
 
-## Định nghĩa (Definition)
+## Định nghĩa | Definition
 
-**Các bên liên quan (Stakeholders)** là các cá nhân, nhóm hoặc tổ chức có thể ảnh hưởng, bị ảnh hưởng, hoặc tự nhận thấy bị ảnh hưởng bởi một quyết định, hoạt động hoặc kết quả của dự án.
+**Các bên liên quan (Stakeholders)** là các cá nhân, nhóm hoặc tổ chức có thể ảnh hưởng, bị ảnh hưởng, hoặc tự nhận thấy bị ảnh hưởng bởi một quyết định, hoạt động hoặc kết quả của dự án. | **Stakeholders** are individuals, groups, or organizations that may affect, be affected by, or perceive themselves to be affected by a decision, activity, or outcome of a project.
 
-**Quản lý các bên liên quan (Stakeholder Management)** là quá trình xác định và phân tích các bên liên quan, hiểu nhu cầu, kỳ vọng và mức độ ảnh hưởng của họ, sau đó phát triển chiến lược để tạo sự tham gia hiệu quả trong quá trình ra quyết định và thực hiện dự án.
+**Quản lý các bên liên quan (Stakeholder Management)** là quá trình xác định và phân tích các bên liên quan, hiểu nhu cầu, kỳ vọng và mức độ ảnh hưởng của họ, sau đó phát triển chiến lược để tạo sự tham gia hiệu quả trong quá trình ra quyết định và thực hiện dự án. | **Stakeholder Management** is the process of identifying and analyzing stakeholders, understanding their needs, expectations, and influence level, then developing strategies to effectively engage them in project decision-making and execution.
 
-Stakeholders are individuals, groups, or organizations that may affect, be affected by, or perceive themselves to be affected by a decision, activity, or outcome of a project.
+## Tầm quan trọng | Importance
 
-Stakeholder Management is the process of identifying and analyzing stakeholders, understanding their needs, expectations, and influence level, then developing strategies to effectively engage them in project decision-making and execution.
+Quản lý các bên liên quan hiệu quả là yếu tố quan trọng quyết định thành công của dự án vì: | Effective stakeholder management is critical to project success because:
+- Giúp đảm bảo nhu cầu và kỳ vọng của các bên liên quan được hiểu và quản lý | It helps ensure stakeholder needs and expectations are understood and managed
+- Giảm thiểu các rủi ro liên quan đến xung đột hoặc phản đối | It minimizes risks related to conflicts or opposition
+- Tăng cường hỗ trợ và cam kết từ các bên liên quan chính | It increases support and commitment from key stakeholders
+- Cải thiện giao tiếp và hợp tác | It improves communication and collaboration
+- Tạo điều kiện thuận lợi cho quá trình ra quyết định hiệu quả | It facilitates effective decision-making
 
-## Tầm quan trọng (Importance)
+## Quy trình quản lý các bên liên quan theo PMBOK 6 | Stakeholder Management Processes in PMBOK 6
 
-Quản lý các bên liên quan hiệu quả là yếu tố quan trọng quyết định thành công của dự án vì:
-- Giúp đảm bảo nhu cầu và kỳ vọng của các bên liên quan được hiểu và quản lý
-- Giảm thiểu các rủi ro liên quan đến xung đột hoặc phản đối
-- Tăng cường hỗ trợ và cam kết từ các bên liên quan chính
-- Cải thiện giao tiếp và hợp tác
-- Tạo điều kiện thuận lợi cho quá trình ra quyết định hiệu quả
+Theo PMBOK 6, quản lý các bên liên quan bao gồm 4 quy trình chính: | According to PMBOK 6, stakeholder management includes 4 main processes:
 
-Effective stakeholder management is critical to project success because it:
-- Helps ensure stakeholder needs and expectations are understood and managed
-- Minimizes risks related to conflicts or opposition
-- Increases support and commitment from key stakeholders
-- Improves communication and collaboration
-- Facilitates effective decision-making
+### 1. Xác định các bên liên quan | Identify Stakeholders
+- **Nhóm quy trình**: Khởi tạo | **Process Group**: Initiating
+- **Mục đích**: Xác định tất cả các cá nhân, nhóm hoặc tổ chức bị tác động bởi dự án | **Purpose**: Identify all individuals, groups, or organizations impacted by the project
+- **Đầu ra chính**: Đăng ký các bên liên quan | **Main Output**: Stakeholder Register
 
-## Quy trình quản lý các bên liên quan (Stakeholder Management Processes)
+### 2. Lập kế hoạch tham gia của các bên liên quan | Plan Stakeholder Engagement
+- **Nhóm quy trình**: Lập kế hoạch | **Process Group**: Planning
+- **Mục đích**: Phát triển phương pháp để thu hút các bên liên quan dựa trên nhu cầu, kỳ vọng và tác động của họ | **Purpose**: Develop approaches to engage stakeholders based on their needs, expectations, and impact
+- **Đầu ra chính**: Kế hoạch tham gia của các bên liên quan | **Main Output**: Stakeholder Engagement Plan
 
-Theo PMBOK 6, quản lý các bên liên quan bao gồm 4 quy trình chính:
+### 3. Quản lý sự tham gia của các bên liên quan | Manage Stakeholder Engagement
+- **Nhóm quy trình**: Thực hiện | **Process Group**: Executing
+- **Mục đích**: Trao đổi và làm việc với các bên liên quan, giải quyết các vấn đề, và thúc đẩy sự tham gia thích hợp | **Purpose**: Communicate and work with stakeholders, addressing issues and fostering appropriate engagement
+- **Đầu ra chính**: Yêu cầu thay đổi, cập nhật kế hoạch quản lý dự án và tài liệu dự án | **Main Output**: Change requests, project management plan updates, project document updates
 
-According to PMBOK 6, stakeholder management includes 4 main processes:
+### 4. Theo dõi sự tham gia của các bên liên quan | Monitor Stakeholder Engagement
+- **Nhóm quy trình**: Giám sát và Kiểm soát | **Process Group**: Monitoring & Controlling
+- **Mục đích**: Giám sát các mối quan hệ của các bên liên quan và điều chỉnh chiến lược để thu hút các bên liên quan | **Purpose**: Monitor stakeholder relationships and adjust strategies to engage stakeholders
+- **Đầu ra chính**: Thông tin hiệu suất công việc, yêu cầu thay đổi | **Main Output**: Work performance information, change requests
 
-### 1. Xác định các bên liên quan (Identify Stakeholders)
-- **Nhóm quy trình**: Khởi tạo (Initiating)
-- **Mục đích**: Xác định tất cả các cá nhân, nhóm hoặc tổ chức bị tác động bởi dự án
-- **Đầu ra chính**: Đăng ký các bên liên quan (Stakeholder Register)
+## Công cụ và kỹ thuật chính | Key Tools and Techniques
 
-- **Process Group**: Initiating
-- **Purpose**: Identify all individuals, groups, or organizations impacted by the project
-- **Main Output**: Stakeholder Register
+### 1. Phân tích các bên liên quan | Stakeholder Analysis
 
-### 2. Lập kế hoạch tham gia của các bên liên quan (Plan Stakeholder Engagement)
-- **Nhóm quy trình**: Lập kế hoạch (Planning)
-- **Mục đích**: Phát triển phương pháp để thu hút các bên liên quan dựa trên nhu cầu, kỳ vọng và tác động của họ
-- **Đầu ra chính**: Kế hoạch tham gia của các bên liên quan (Stakeholder Engagement Plan)
+Phân loại các bên liên quan dựa trên: | Classifying stakeholders based on:
 
-- **Process Group**: Planning
-- **Purpose**: Develop approaches to engage stakeholders based on their needs, expectations, and impact
-- **Main Output**: Stakeholder Engagement Plan
+#### a) Mô hình Quyền lực/Lợi ích | Power/Interest Grid
+- **Quyền lực cao, Lợi ích cao**: Quản lý chặt chẽ | **High Power, High Interest**: Manage closely
+- **Quyền lực cao, Lợi ích thấp**: Giữ hài lòng | **High Power, Low Interest**: Keep satisfied
+- **Quyền lực thấp, Lợi ích cao**: Thông tin đầy đủ | **Low Power, High Interest**: Keep informed
+- **Quyền lực thấp, Lợi ích thấp**: Giám sát | **Low Power, Low Interest**: Monitor
 
-### 3. Quản lý sự tham gia của các bên liên quan (Manage Stakeholder Engagement)
-- **Nhóm quy trình**: Thực hiện (Executing)
-- **Mục đích**: Trao đổi và làm việc với các bên liên quan, giải quyết các vấn đề, và thúc đẩy sự tham gia thích hợp
-- **Đầu ra chính**: Yêu cầu thay đổi, cập nhật kế hoạch quản lý dự án và tài liệu dự án
+#### b) Mô hình Quyền lực/Ảnh hưởng | Power/Influence Grid
+Tương tự như ma trận Quyền lực/Lợi ích, nhưng thay "Lợi ích" bằng "Ảnh hưởng" | Similar to Power/Interest grid, but replaces "Interest" with "Influence"
 
-- **Process Group**: Executing
-- **Purpose**: Communicate and work with stakeholders, addressing issues and fostering appropriate engagement
-- **Main Output**: Change requests, project management plan updates, project document updates
+#### c) Mô hình Ảnh hưởng/Tác động | Influence/Impact Grid
+Tập trung vào khả năng ảnh hưởng đến việc lập kế hoạch/thực hiện và mức độ tác động của các bên liên quan | Focuses on stakeholders' ability to influence planning/execution and their level of impact
 
-### 4. Theo dõi sự tham gia của các bên liên quan (Monitor Stakeholder Engagement)
-- **Nhóm quy trình**: Giám sát và Kiểm soát (Monitoring & Controlling)
-- **Mục đích**: Giám sát các mối quan hệ của các bên liên quan và điều chỉnh chiến lược để thu hút các bên liên quan
-- **Đầu ra chính**: Thông tin hiệu suất công việc, yêu cầu thay đổi
+#### d) Mô hình Nổi bật | Salience Model
+Phân loại các bên liên quan dựa trên: | Classifies stakeholders based on:
+- **Quyền lực**: Khả năng áp đặt ý muốn | **Power**: Ability to impose will
+- **Tính hợp pháp**: Sự tham gia thích hợp | **Legitimacy**: Appropriate involvement
+- **Tính cấp bách**: Cần được chú ý ngay lập tức | **Urgency**: Need for immediate attention
 
-- **Process Group**: Monitoring & Controlling
-- **Purpose**: Monitor stakeholder relationships and adjust strategies to engage stakeholders
-- **Main Output**: Work performance information, change requests
+### 2. Bản đồ tham gia các bên liên quan | Stakeholder Engagement Assessment Matrix
 
-## Công cụ và kỹ thuật chính (Key Tools and Techniques)
+Ma trận hiển thị mức độ tham gia hiện tại so với mức độ tham gia mong muốn: | Matrix showing current engagement level versus desired engagement level:
+- **Không biết** (Unaware): Không biết về dự án và tác động tiềm tàng | **Unaware**: Unaware of project and potential impacts
+- **Chống đối** (Resistant): Biết về dự án nhưng chống lại sự thay đổi | **Resistant**: Aware of project but resistant to change
+- **Trung lập** (Neutral): Biết về dự án nhưng không ủng hộ hay chống đối | **Neutral**: Aware of project but neither supportive nor resistant
+- **Hỗ trợ** (Supportive): Biết về dự án và ủng hộ thay đổi | **Supportive**: Aware of project and supportive of change
+- **Dẫn dắt** (Leading): Tích cực tham gia đảm bảo thành công của dự án | **Leading**: Actively engaged in ensuring project success
 
-### 1. Phân tích các bên liên quan (Stakeholder Analysis)
+### 3. Kỹ năng giao tiếp | Communication Skills
 
-Phân loại các bên liên quan dựa trên:
+- **Phản hồi**: Lắng nghe tích cực và giải quyết mối quan tâm | **Feedback**: Active listening and addressing concerns
+- **Văn hóa và chính trị**: Hiểu chuẩn mực văn hóa và môi trường chính trị | **Cultural and political awareness**: Understanding cultural norms and political environment
+- **Vượt qua rào cản**: Giải quyết những thách thức về ngôn ngữ, thời gian, địa lý và văn hóa | **Overcoming barriers**: Addressing challenges of language, time, geography, and culture
+- **Điều chỉnh thông điệp**: Thiết kế liên lạc phù hợp với từng đối tượng | **Tailoring messages**: Designing communications appropriate for each audience
 
-Classifying stakeholders based on:
+### 4. Kỹ năng giao tiếp liên cá nhân | Interpersonal Skills
 
-#### a) Mô hình Quyền lực/Lợi ích (Power/Interest Grid)
-- **Quyền lực cao, Lợi ích cao**: Quản lý chặt chẽ (Manage closely)
-- **Quyền lực cao, Lợi ích thấp**: Giữ hài lòng (Keep satisfied)
-- **Quyền lực thấp, Lợi ích cao**: Thông tin đầy đủ (Keep informed)
-- **Quyền lực thấp, Lợi ích thấp**: Giám sát (Monitor)
+- **Xây dựng lòng tin**: Tạo mối quan hệ dựa trên sự tin tưởng | **Trust building**: Creating relationships based on trust
+- **Giải quyết xung đột**: Quản lý và giải quyết khác biệt | **Conflict resolution**: Managing and resolving differences
+- **Đàm phán**: Tìm kiếm thỏa thuận cùng có lợi | **Negotiation**: Seeking mutually beneficial agreements
+- **Ảnh hưởng**: Chia sẻ quyền lực và dựa vào sự thuyết phục | **Influencing**: Sharing power and relying on persuasion
 
-- **High Power, High Interest**: Manage closely
-- **High Power, Low Interest**: Keep satisfied
-- **Low Power, High Interest**: Keep informed
-- **Low Power, Low Interest**: Monitor
+## Chiến lược tham gia của các bên liên quan | Stakeholder Engagement Strategies
 
-#### b) Mô hình Quyền lực/Ảnh hưởng (Power/Influence Grid)
-Tương tự như ma trận Quyền lực/Lợi ích, nhưng thay "Lợi ích" bằng "Ảnh hưởng"
+### 1. Chiến lược dựa trên vị trí | Position-based Strategies
 
-Similar to Power/Interest grid, but replaces "Interest" with "Influence"
+- **Các bên liên quan ủng hộ** | **Supportive stakeholders**:
+  - Tận dụng sự hỗ trợ của họ | Leverage their support
+  - Sử dụng họ như đại sứ của dự án | Use them as project ambassadors
+  - Chia sẻ thông tin đều đặn | Share information regularly
 
-#### c) Mô hình Ảnh hưởng/Tác động (Influence/Impact Grid)
-Tập trung vào khả năng ảnh hưởng đến việc lập kế hoạch/thực hiện và mức độ tác động của các bên liên quan
+- **Các bên liên quan trung lập** | **Neutral stakeholders**:
+  - Giáo dục về lợi ích của dự án | Educate about project benefits
+  - Tìm kiếm phản hồi để thu hút họ | Seek feedback to engage them
+  - Xây dựng mối quan hệ để chuyển họ thành người ủng hộ | Build relationships to convert to supporters
 
-Focuses on stakeholders' ability to influence planning/execution and their level of impact
+- **Các bên liên quan chống đối** | **Resistant stakeholders**:
+  - Hiểu mối quan tâm và động lực của họ | Understand their concerns and motivations
+  - Giải quyết các mối quan tâm cụ thể | Address specific concerns
+  - Thương lượng và tìm giải pháp win-win | Negotiate and find win-win solutions
+  - Quản lý sự chống đối tích cực | Manage active resistance
 
-#### d) Mô hình Nổi bật (Salience Model)
-Phân loại các bên liên quan dựa trên:
-- **Quyền lực**: Khả năng áp đặt ý muốn
-- **Tính hợp pháp**: Sự tham gia thích hợp
-- **Tính cấp bách**: Cần được chú ý ngay lập tức
-
-Classifies stakeholders based on:
-- **Power**: Ability to impose will
-- **Legitimacy**: Appropriate involvement
-- **Urgency**: Need for immediate attention
-
-### 2. Bản đồ tham gia các bên liên quan (Stakeholder Engagement Assessment Matrix)
-
-Ma trận hiển thị mức độ tham gia hiện tại so với mức độ tham gia mong muốn:
-- **Không biết** (Unaware): Không biết về dự án và tác động tiềm tàng
-- **Chống đối** (Resistant): Biết về dự án nhưng chống lại sự thay đổi
-- **Trung lập** (Neutral): Biết về dự án nhưng không ủng hộ hay chống đối
-- **Hỗ trợ** (Supportive): Biết về dự án và ủng hộ thay đổi
-- **Dẫn dắt** (Leading): Tích cực tham gia đảm bảo thành công của dự án
-
-Matrix showing current engagement level versus desired engagement level:
-- **Unaware**: Unaware of project and potential impacts
-- **Resistant**: Aware of project but resistant to change
-- **Neutral**: Aware of project but neither supportive nor resistant
-- **Supportive**: Aware of project and supportive of change
-- **Leading**: Actively engaged in ensuring project success
-
-### 3. Kỹ năng giao tiếp (Communication Skills)
-
-- **Phản hồi**: Lắng nghe tích cực và giải quyết mối quan tâm
-- **Văn hóa và chính trị**: Hiểu chuẩn mực văn hóa và môi trường chính trị
-- **Vượt qua rào cản**: Giải quyết những thách thức về ngôn ngữ, thời gian, địa lý và văn hóa
-- **Điều chỉnh thông điệp**: Thiết kế liên lạc phù hợp với từng đối tượng
-
-- **Feedback**: Active listening and addressing concerns
-- **Cultural and political awareness**: Understanding cultural norms and political environment
-- **Overcoming barriers**: Addressing challenges of language, time, geography, and culture
-- **Tailoring messages**: Designing communications appropriate for each audience
-
-### 4. Kỹ năng giao tiếp liên cá nhân (Interpersonal Skills)
-
-- **Xây dựng lòng tin**: Tạo mối quan hệ dựa trên sự tin tưởng
-- **Giải quyết xung đột**: Quản lý và giải quyết khác biệt
-- **Đàm phán**: Tìm kiếm thỏa thuận cùng có lợi
-- **Ảnh hưởng**: Chia sẻ quyền lực và dựa vào sự thuyết phục
-
-- **Trust building**: Creating relationships based on trust
-- **Conflict resolution**: Managing and resolving differences
-- **Negotiation**: Seeking mutually beneficial agreements
-- **Influencing**: Sharing power and relying on persuasion
-
-## Chiến lược tham gia của các bên liên quan (Stakeholder Engagement Strategies)
-
-### 1. Chiến lược dựa trên vị trí (Position-based Strategies)
-
-- **Các bên liên quan ủng hộ (Supportive stakeholders)**:
-  - Tận dụng sự hỗ trợ của họ
-  - Sử dụng họ như đại sứ của dự án
-  - Chia sẻ thông tin đều đặn
-
-  - Leverage their support
-  - Use them as project ambassadors
-  - Share information regularly
-
-- **Các bên liên quan trung lập (Neutral stakeholders)**:
-  - Giáo dục về lợi ích của dự án
-  - Tìm kiếm phản hồi để thu hút họ
-  - Xây dựng mối quan hệ để chuyển họ thành người ủng hộ
-
-  - Educate about project benefits
-  - Seek feedback to engage them
-  - Build relationships to convert to supporters
-
-- **Các bên liên quan chống đối (Resistant stakeholders)**:
-  - Hiểu mối quan tâm và động lực của họ
-  - Giải quyết các mối quan tâm cụ thể
-  - Thương lượng và tìm giải pháp win-win
-  - Quản lý sự chống đối tích cực
-
-  - Understand their concerns and motivations
-  - Address specific concerns
-  - Negotiate and find win-win solutions
-  - Manage active resistance
-
-### 2. Chiến lược tham gia (Engagement Strategies)
-
-- **Truyền thông (Communication)**:
-  - Lập kế hoạch giao tiếp đa kênh
-  - Điều chỉnh tần suất và chi tiết theo nhu cầu của các bên liên quan
-  - Cung cấp thông tin minh bạch
-  - Tạo cơ hội phản hồi hai chiều
-
-  - Plan multi-channel communications
-  - Adjust frequency and detail to stakeholder needs
-  - Provide transparent information
-  - Create opportunities for two-way feedback
+### 2. Chiến lược tham gia | Engagement Strategies
 
-- **Hợp tác (Collaboration)**:
-  - Mời các bên liên quan tham gia lập kế hoạch
-  - Thành lập các nhóm làm việc và ủy ban
-  - Tổ chức các buổi hội thảo và phiên họp chung
-  - Chia sẻ quá trình ra quyết định
+- **Truyền thông** | **Communication**:
+  - Lập kế hoạch giao tiếp đa kênh | Plan multi-channel communications
+  - Điều chỉnh tần suất và chi tiết theo nhu cầu của các bên liên quan | Adjust frequency and detail to stakeholder needs
+  - Cung cấp thông tin minh bạch | Provide transparent information
+  - Tạo cơ hội phản hồi hai chiều | Create opportunities for two-way feedback
 
-  - Invite stakeholders to participate in planning
-  - Establish working groups and committees
-  - Organize workshops and joint sessions
-  - Share decision-making process
+- **Hợp tác** | **Collaboration**:
+  - Mời các bên liên quan tham gia lập kế hoạch | Invite stakeholders to participate in planning
+  - Thành lập các nhóm làm việc và ủy ban | Establish working groups and committees
 
-- **Đào tạo (Education)**:
-  - Cung cấp thông tin cơ bản về dự án
-  - Chia sẻ bằng chứng và dữ liệu để chứng minh giá trị
-  - Xây dựng các chương trình đào tạo chính thức
-  - Lập các khóa học về kỹ năng và kiến thức mới
+## Quản lý các bên liên quan theo PMBOK 7 | Stakeholder Management in PMBOK 7
 
-  - Provide project background information
-  - Share evidence and data to demonstrate value
-  - Develop formal training programs
-  - Establish courses on new skills and knowledge
+PMBOK 7 chuyển từ cách tiếp cận dựa trên quy trình (PMBOK 6) sang cách tiếp cận dựa trên nguyên tắc và miền hiệu suất. | PMBOK 7 shifts from a process-based approach (PMBOK 6) to a principle-based and performance domain approach.
 
-## Thách thức phổ biến và giải pháp (Common Challenges and Solutions)
+### Miền hiệu suất các bên liên quan | Stakeholder Performance Domain
 
-### 1. Xác định tất cả các bên liên quan (Identifying All Stakeholders)
+Trong PMBOK 7, Quản lý các bên liên quan là một trong tám miền hiệu suất dự án: | In PMBOK 7, Stakeholder Management is one of the eight project performance domains:
 
-**Thách thức (Challenge)**: Bỏ sót các bên liên quan quan trọng.
+1. **Định nghĩa**: Thúc đẩy sự tham gia của các bên liên quan để hiểu kỳ vọng, đáp ứng nhu cầu và tạo giá trị | **Definition**: Promotes stakeholder engagement to understand expectations, address needs, and create value
 
-**Giải pháp (Solution)**:
-- Sử dụng nhiều phương pháp xác định (brainstorming, chuyên gia, phân tích lịch sử)
-- Xem xét các bên liên quan trực tiếp và gián tiếp
-- Thường xuyên cập nhật đăng ký các bên liên quan
-- Sử dụng phương pháp phân loại có hệ thống
+2. **Tập trung vào kết quả hơn quy trình**: Tập trung vào đảm bảo nhu cầu của các bên liên quan được đáp ứng, không chỉ là tuân thủ các quy trình | **Focuses on outcomes over processes**: Emphasizes ensuring stakeholder needs are met, not just following processes
 
-- Use multiple identification methods (brainstorming, experts, historical analysis)
-- Consider direct and indirect stakeholders
-- Update stakeholder register regularly
-- Use systematic categorization approach
+3. **Khía cạnh chính** | **Key aspects**:
+   - Xác định và phân tích các bên liên quan trong suốt vòng đời dự án | Identifying and analyzing stakeholders throughout the project life cycle
+   - Nuôi dưỡng mối quan hệ hiệu quả với các bên liên quan | Fostering effective relationships with stakeholders
+   - Giám sát môi trường các bên liên quan để thích ứng | Monitoring the stakeholder environment to adapt
+   - Xây dựng sự đồng thuận và cam kết trong nhóm | Building consensus and commitment within the team
 
-### 2. Quản lý các bên liên quan có quyền lực (Managing Powerful Stakeholders)
+### So sánh cách tiếp cận PMBOK 6 và PMBOK 7 | Comparing PMBOK 6 and PMBOK 7 Approaches
 
-**Thách thức (Challenge)**: Xử lý các bên liên quan có ảnh hưởng lớn nhưng không tham gia hoặc không hỗ trợ.
+| PMBOK 6 | PMBOK 7 |
+|---------|---------|
+| Dựa trên quy trình cụ thể (4 quy trình) | Dựa trên nguyên tắc và kết quả |
+| Tập trung vào đầu vào, công cụ, kỹ thuật và đầu ra | Tập trung vào kết quả và giá trị |
+| Tuân theo trình tự khởi động → lập kế hoạch → thực hiện → giám sát | Linh hoạt và thích ứng theo nhu cầu dự án |
+| Áp dụng thống nhất cho tất cả dự án | Điều chỉnh theo ngữ cảnh dự án cụ thể |
 
-**Giải pháp (Solution)**:
-- Hiểu động lực và mối quan tâm cá nhân của họ
-- Liên kết mục tiêu dự án với mục tiêu của họ
-- Giao tiếp thường xuyên và cá nhân hóa
-- Xác định ảnh hưởng tích cực của dự án đối với họ
+### Nguyên tắc dự án trong PMBOK 7 liên quan đến các bên liên quan | Project Principles in PMBOK 7 Related to Stakeholders
 
-- Understand their personal motivations and concerns
-- Connect project objectives to their goals
-- Communicate frequently and personally
-- Identify positive impacts of the project on them
+- **Tham gia hiệu quả với các bên liên quan**: Tạo sự tham gia chủ động của các bên liên quan để hiểu nhu cầu, kỳ vọng và giảm thiểu tác động tiêu cực | **Effectively engage with stakeholders**: Actively engage stakeholders to understand needs, expectations, and minimize negative impacts
 
-### 3. Giải quyết các mong đợi mâu thuẫn (Addressing Conflicting Expectations)
+- **Tập trung vào giá trị**: Tập trung vào việc tạo ra giá trị cho các bên liên quan | **Focus on value**: Focus on creating value for stakeholders
 
-**Thách thức (Challenge)**: Các bên liên quan có kỳ vọng và ưu tiên khác nhau.
+- **Xây dựng chất lượng vào quy trình và kết quả bàn giao**: Đảm bảo chất lượng đáp ứng nhu cầu của các bên liên quan | **Build quality into processes and deliverables**: Ensure quality meets stakeholder needs
 
-**Giải pháp (Solution)**:
-- Làm rõ mục tiêu và phạm vi dự án
-- Tạo điều kiện đàm phán giữa các bên liên quan có xung đột
-- Sử dụng phương pháp ra quyết định minh bạch
-- Quản lý kỳ vọng thông qua tài liệu chính thức (điều lệ dự án, SOW)
+## Thực hành tốt nhất | Best Practices
 
-- Clarify project objectives and scope
-- Facilitate negotiation between conflicting stakeholders
-- Use transparent decision-making methods
-- Manage expectations through formal documentation (project charter, SOW)
+1. **Xác định sớm và thường xuyên**: Xác định tất cả các bên liên quan từ giai đoạn khởi động và tiếp tục cập nhật trong suốt dự án | **Early and regular identification**: Identify all stakeholders from the initiation phase and continue updating throughout the project
 
-### 4. Duy trì sự tham gia trong suốt dự án (Maintaining Engagement Throughout the Project)
+2. **Phân tích toàn diện**: Đánh giá quyền lực, ảnh hưởng, tác động và mức độ quan tâm của từng bên liên quan | **Comprehensive analysis**: Assess power, influence, impact, and interest level of each stakeholder
 
-**Thách thức (Challenge)**: Sự tham gia của các bên liên quan giảm dần theo thời gian.
+3. **Truyền thông phù hợp**: Điều chỉnh phương pháp, tần suất và nội dung giao tiếp theo nhu cầu của các bên liên quan | **Appropriate communication**: Tailor method, frequency, and content of communication to stakeholder needs
 
-**Giải pháp (Solution)**:
-- Thiết lập các điểm kiểm tra và đánh giá thường xuyên
-- Chia sẻ thành công và cập nhật tiến độ
-- Cung cấp các cơ hội tham gia mới
-- Công nhận và tôn vinh những đóng góp của các bên liên quan
+4. **Chủ động quản lý kỳ vọng**: Làm rõ và quản lý kỳ vọng của các bên liên quan từ sớm | **Proactive expectation management**: Clarify and manage stakeholder expectations early
 
-- Establish regular check-ins and reviews
-- Share successes and progress updates
-- Provide new engagement opportunities
-- Recognize and celebrate stakeholder contributions
+5. **Giám sát và thích ứng**: Theo dõi mức độ tham gia của các bên liên quan và điều chỉnh chiến lược khi cần thiết | **Monitor and adapt**: Track stakeholder engagement levels and adjust strategies as needed
 
-## Mẹo cho kỳ thi PMP (PMP Exam Tips)
+6. **Giải quyết xung đột**: Giải quyết xung đột giữa các bên liên quan một cách kịp thời và hiệu quả | **Conflict resolution**: Address conflicts between stakeholders in a timely and effective manner
 
-### 1. Hiểu ma trận tham gia của các bên liên quan (Understand Stakeholder Engagement Matrix)
+7. **Tận dụng các nhà tài trợ**: Tận dụng sự hỗ trợ và ảnh hưởng của nhà tài trợ dự án | **Leverage sponsors**: Utilize the support and influence of project sponsors
 
-Kỳ thi thường có câu hỏi về cách di chuyển các bên liên quan từ trạng thái hiện tại (ví dụ: chống đối) sang trạng thái mong muốn (ví dụ: hỗ trợ).
+8. **Xây dựng lòng tin**: Phát triển mối quan hệ tin cậy với các bên liên quan chính | **Build trust**: Develop trusted relationships with key stakeholders
 
-The exam often has questions about moving stakeholders from their current state (e.g., resistant) to a desired state (e.g., supportive).
+## Thách thức phổ biến và giải pháp | Common Challenges and Solutions
 
-**Ví dụ câu hỏi (Sample Question)**:
-*Một bên liên quan đang chống đối dự án. Cách tốt nhất để quản lý dự án chuyển họ thành người ủng hộ là gì?*
+### 1. Các bên liên quan không tích cực tham gia | Stakeholders Not Actively Engaging
+- **Giải pháp** | **Solution**: Xác định lợi ích cá nhân, điều chỉnh truyền thông, tổ chức các buổi tham gia trực tiếp | Identify personal benefits, adjust communications, arrange face-to-face engagement sessions
 
-*A stakeholder is resistant to the project. What is the best way for the project manager to convert them to a supporter?*
+### 2. Xung đột giữa các bên liên quan | Stakeholder Conflicts
+- **Giải pháp** | **Solution**: Tạo diễn đàn để thảo luận cởi mở, tập trung vào mục tiêu chung, tìm kiếm thỏa hiệp | Create forums for open discussion, focus on common goals, look for compromises
 
-A. Gửi cập nhật thường xuyên / Send regular updates
-B. **Hiểu mối quan tâm và giải quyết chúng / Understand their concerns and address them**
-C. Giảm thiểu tương tác với họ / Minimize interaction with them
-D. Báo cáo vấn đề với nhà tài trợ / Report the issue to the sponsor
+### 3. Các bên liên quan thay đổi trong suốt dự án | Stakeholders Changing Throughout the Project
+- **Giải pháp** | **Solution**: Cập nhật thường xuyên đăng ký các bên liên quan, giới thiệu nhanh chóng các bên liên quan mới, cung cấp tài liệu rõ ràng | Regularly update stakeholder register, quickly onboard new stakeholders, provide clear documentation
 
-### 2. Tập trung vào việc xác định các bên liên quan sớm (Focus on Early Stakeholder Identification)
+### 4. Kỳ vọng không thực tế | Unrealistic Expectations
+- **Giải pháp** | **Solution**: Thiết lập kỳ vọng rõ ràng từ đầu, cung cấp dữ liệu để hỗ trợ quyết định, thương lượng phạm vi khi cần thiết | Set clear expectations early, provide data to support decisions, negotiate scope when necessary
 
-Trong kỳ thi, các câu hỏi thường nhấn mạnh việc xác định các bên liên quan là hoạt động đầu tiên, đặc biệt là trong giai đoạn Khởi tạo.
-
-In the exam, questions often emphasize that identifying stakeholders is an initial activity, especially in the Initiating phase.
-
-**Ví dụ câu hỏi (Sample Question)**:
-*Quản lý dự án mới được bổ nhiệm cho một dự án. Họ nên làm gì đầu tiên liên quan đến các bên liên quan?*
-
-*A newly appointed project manager has been assigned to a project. What should they do first regarding stakeholders?*
-
-A. Phát triển kế hoạch truyền thông / Develop a communication plan
-B. **Xác định tất cả các bên liên quan và ghi lại trong đăng ký các bên liên quan / Identify all stakeholders and document them in the stakeholder register**
-C. Tiến hành phân tích rủi ro / Conduct a risk analysis
-D. Tạo ma trận RACI / Create a RACI matrix
-
-### 3. Nắm vững sự khác biệt giữa các quy trình quản lý các bên liên quan (Master the Differences Between Stakeholder Management Processes)
-
-Hiểu rõ các mục đích, đầu vào, công cụ và đầu ra khác nhau cho cả 4 quy trình trong quản lý các bên liên quan.
-
-Understand the different purposes, inputs, tools, and outputs for all 4 processes within stakeholder management.
-
-**Ví dụ câu hỏi (Sample Question)**:
-*Trong quá trình các bên liên quan hiện đổi tầm nhìn về dự án, quản lý dự án cần cập nhật loại tài liệu nào?*
-
-*As stakeholders change their vision of the project, which type of document should the project manager update?*
-
-A. Điều lệ dự án / Project charter
-B. Đăng ký rủi ro / Risk register
-C. **Kế hoạch tham gia của các bên liên quan / Stakeholder engagement plan**
-D. Tuyên bố phạm vi / Scope statement
-
-### 4. Ưu tiên chiến lược hợp tác (Prioritize Collaborative Strategies)
-
-PMI coi trọng các chiến lược hợp tác hơn là đối đầu trong các tình huống liên quan đến các bên liên quan.
-
-PMI values collaborative strategies over confrontational ones in stakeholder situations.
-
-**Ví dụ câu hỏi (Sample Question)**:
-*Một bên liên quan chính tiếp tục thay đổi yêu cầu, ảnh hưởng đến lịch trình dự án. Cách tốt nhất để quản lý dự án giải quyết tình huống này là gì?*
-
-*A key stakeholder continuously changes requirements, affecting the project schedule. What is the best way for the project manager to address this situation?*
-
-A. Yêu cầu nhà tài trợ dự án can thiệp / Ask the project sponsor to intervene
-B. Tạm dừng tất cả các yêu cầu thay đổi / Freeze all change requests
-C. **Tổ chức cuộc họp với bên liên quan để hiểu nhu cầu và thiết lập quy trình thay đổi chính thức / Schedule a meeting with the stakeholder to understand needs and establish a formal change process**
-D. Ghi lại vấn đề trong nhật ký vấn đề / Document the issue in the issue log
-
-## Kết luận (Conclusion)
-
-Quản lý các bên liên quan hiệu quả là một trong những khía cạnh quan trọng nhất để đạt được thành công trong dự án. Hiểu nhu cầu, mối quan tâm và kỳ vọng của các bên liên quan, sau đó phát triển chiến lược phù hợp để thu hút họ, có thể giúp tránh nhiều vấn đề dự án phổ biến. Kỳ thi PMP đặc biệt nhấn mạnh cách tiếp cận hợp tác, chủ động và tập trung vào giá trị để quản lý các bên liên quan.
-
-Effective stakeholder management is one of the most important aspects of achieving project success. Understanding stakeholder needs, concerns, and expectations, then developing appropriate strategies to engage them, can help avoid many common project issues. The PMP exam particularly emphasizes collaborative, proactive, and value-focused approaches to stakeholder management. 
+### 5. Thiếu hỗ trợ từ lãnh đạo cấp cao | Lack of Senior Leadership Support
+- **Giải pháp** | **Solution**: Làm nổi bật lợi ích kinh doanh, liên kết dự án với mục tiêu chiến lược, cập nhật thường xuyên về tiến độ và thành công | Highlight business benefits, align project with strategic objectives, provide regular updates on progress and successes 

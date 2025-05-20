@@ -1,33 +1,38 @@
-# Từ vựng quản lý lịch trình dự án (Schedule Management Vocabulary)
+# Từ vựng quản lý lịch trình dự án | Project Schedule Management Vocabulary
 
-| Thuật ngữ | Tiếng Anh | Định nghĩa |
-|-----------|-----------|------------|
-| Lịch trình dự án | Project Schedule | Mô hình ngày bắt đầu và kết thúc của các hoạt động dự án, thường hiển thị mối quan hệ logic giữa các hoạt động |
-| Kế hoạch quản lý lịch trình | Schedule Management Plan | Tài liệu mô tả phương pháp và cách tiếp cận để lập kế hoạch, phát triển, quản lý, thực hiện và kiểm soát lịch trình dự án |
-| Xác định hoạt động | Activity Definition | Quy trình xác định và tài liệu hóa các hành động cần thực hiện để tạo ra kết quả bàn giao dự án |
-| Sắp xếp hoạt động | Activity Sequencing | Quy trình xác định và tài liệu hóa mối quan hệ giữa các hoạt động dự án |
-| Đường găng | Critical Path | Chuỗi các hoạt động xác định thời gian sớm nhất có thể hoàn thành dự án; các hoạt động trên đường găng không có thời gian nổi |
-| Hoạt động găng | Critical Activity | Bất kỳ hoạt động nào trên đường găng của lịch trình dự án |
-| Phương pháp đường găng | Critical Path Method (CPM) | Kỹ thuật phân tích mạng lịch trình để xác định độ linh hoạt lịch trình và thời gian hoàn thành dự án sớm nhất |
-| Thời gian nổi | Float/Slack | Lượng thời gian mà một hoạt động có thể bị trì hoãn mà không trì hoãn ngày kết thúc dự án hoặc không vi phạm ràng buộc lịch trình |
-| Thời gian nổi tổng thể | Total Float | Lượng thời gian một hoạt động có thể bị trì hoãn mà không trì hoãn ngày kết thúc dự án |
-| Thời gian nổi tự do | Free Float | Lượng thời gian một hoạt động có thể bị trì hoãn mà không ảnh hưởng đến thời gian bắt đầu sớm nhất của hoạt động kế tiếp |
-| Nén lịch trình | Schedule Compression | Kỹ thuật rút ngắn thời gian lịch trình mà không giảm phạm vi dự án |
-| Fast tracking | Fast Tracking | Kỹ thuật nén lịch trình thực hiện các hoạt động song song hoặc chồng chéo |
-| Crashing | Crashing | Kỹ thuật nén lịch trình bằng cách thêm nguồn lực để rút ngắn thời gian của các hoạt động găng |
-| Ước tính thời gian | Duration Estimate | Đánh giá về số lượng kỳ làm việc cần thiết để hoàn thành một hoạt động |
-| Ước tính ba điểm | Three-Point Estimate | Kỹ thuật ước tính thời gian sử dụng ba kịch bản: lạc quan, khả năng nhất và bi quan |
-| PERT | Program Evaluation and Review Technique | Phương pháp phân tích mạng lịch trình sử dụng ước tính ba điểm để tính thời lượng dự kiến |
-| Mũ neo/Cột mốc | Milestone | Điểm hoặc sự kiện quan trọng trong dự án, thường đánh dấu hoàn thành kết quả bàn giao chính hoặc giai đoạn dự án |
-| Biểu đồ Gantt | Gantt Chart | Công cụ lập lịch trình trực quan hiển thị thời gian và mối quan hệ giữa các hoạt động dự án |
-| Biểu đồ mạng | Network Diagram | Biểu diễn đồ họa của các hoạt động dự án và mối quan hệ logic giữa chúng |
-| Phương pháp tiền nhiệm | Precedence Diagramming Method (PDM) | Kỹ thuật vẽ biểu đồ mạng lịch trình sử dụng hộp hoặc nút để biểu diễn hoạt động và mũi tên để thể hiện mối quan hệ logic |
-| Quan hệ kết thúc-bắt đầu | Finish-to-Start (FS) | Mối quan hệ logic trong đó hoạt động kế tiếp không thể bắt đầu cho đến khi hoạt động trước đó kết thúc |
-| Quan hệ bắt đầu-bắt đầu | Start-to-Start (SS) | Mối quan hệ logic trong đó hoạt động kế tiếp không thể bắt đầu cho đến khi hoạt động trước đó bắt đầu |
-| Quan hệ kết thúc-kết thúc | Finish-to-Finish (FF) | Mối quan hệ logic trong đó hoạt động kế tiếp không thể kết thúc cho đến khi hoạt động trước đó kết thúc |
-| Quan hệ bắt đầu-kết thúc | Start-to-Finish (SF) | Mối quan hệ logic trong đó hoạt động kế tiếp không thể kết thúc cho đến khi hoạt động trước đó bắt đầu |
-| Lead time | Lead | Lượng thời gian mà hoạt động kế tiếp có thể được đẩy nhanh so với hoạt động tiền nhiệm |
-| Lag time | Lag | Lượng thời gian mà hoạt động kế tiếp phải bị trì hoãn so với hoạt động tiền nhiệm |
-| Đường cơ sở lịch trình | Schedule Baseline | Phiên bản được phê duyệt của mô hình lịch trình có thể thay đổi thông qua quy trình kiểm soát thay đổi chính thức |
-| Phân tích sai lệch | Variance Analysis | Kỹ thuật đo lường, so sánh và phân tích sự khác biệt giữa hiệu suất thực tế và kế hoạch |
-| Cân bằng nguồn lực | Resource Leveling | Kỹ thuật phân tích mạng lịch trình áp dụng khi nguồn lực bị hạn chế hoặc biến động | 
+| Thuật ngữ Tiếng Việt | English Term | Định nghĩa Tiếng Việt | English Definition |
+|----------------------|--------------|----------------------|-------------------|
+| Lịch trình dự án | Project Schedule | Mô hình ngày bắt đầu và kết thúc của các hoạt động dự án, thường hiển thị mối quan hệ logic giữa các hoạt động | A model of start and finish dates for project activities, typically showing logical relationships between activities |
+| Kế hoạch quản lý lịch trình | Schedule Management Plan | Tài liệu mô tả phương pháp và cách tiếp cận để lập kế hoạch, phát triển, quản lý, thực hiện và kiểm soát lịch trình dự án | Document describing the approach and methods for planning, developing, managing, executing, and controlling the project schedule |
+| Xác định hoạt động | Activity Definition | Quy trình xác định và tài liệu hóa các hành động cần thực hiện để tạo ra kết quả bàn giao dự án | The process of identifying and documenting the actions needed to produce project deliverables |
+| Sắp xếp hoạt động | Activity Sequencing | Quy trình xác định và tài liệu hóa mối quan hệ giữa các hoạt động dự án | The process of identifying and documenting relationships among project activities |
+| Đường găng | Critical Path | Chuỗi các hoạt động xác định thời gian sớm nhất có thể hoàn thành dự án; các hoạt động trên đường găng không có thời gian nổi | The sequence of activities that determines the earliest possible completion date for the project; activities on the critical path have zero float |
+| Hoạt động găng | Critical Activity | Bất kỳ hoạt động nào trên đường găng của lịch trình dự án | Any activity on the critical path of the project schedule |
+| Phương pháp đường găng | Critical Path Method (CPM) | Kỹ thuật phân tích mạng lịch trình để xác định độ linh hoạt lịch trình và thời gian hoàn thành dự án sớm nhất | A schedule network analysis technique to determine schedule flexibility and the earliest project completion time |
+| Thời gian nổi | Float/Slack | Lượng thời gian mà một hoạt động có thể bị trì hoãn mà không trì hoãn ngày kết thúc dự án hoặc không vi phạm ràng buộc lịch trình | The amount of time an activity can be delayed without delaying the project end date or violating a schedule constraint |
+| Thời gian nổi tổng thể | Total Float | Lượng thời gian một hoạt động có thể bị trì hoãn mà không trì hoãn ngày kết thúc dự án | The amount of time an activity can be delayed without delaying the project end date |
+| Thời gian nổi tự do | Free Float | Lượng thời gian một hoạt động có thể bị trì hoãn mà không ảnh hưởng đến thời gian bắt đầu sớm nhất của hoạt động kế tiếp | The amount of time an activity can be delayed without affecting the earliest start time of any successor activity |
+| Nén lịch trình | Schedule Compression | Kỹ thuật rút ngắn thời gian lịch trình mà không giảm phạm vi dự án | Techniques to shorten the schedule duration without reducing project scope |
+| Fast tracking | Fast Tracking | Kỹ thuật nén lịch trình thực hiện các hoạt động song song hoặc chồng chéo | A schedule compression technique that performs activities in parallel or overlapping |
+| Crashing | Crashing | Kỹ thuật nén lịch trình bằng cách thêm nguồn lực để rút ngắn thời gian của các hoạt động găng | A schedule compression technique that adds resources to shorten the duration of critical activities |
+| Ước tính thời gian | Duration Estimate | Đánh giá về số lượng kỳ làm việc cần thiết để hoàn thành một hoạt động | An assessment of the number of work periods needed to complete an activity |
+| Ước tính ba điểm | Three-Point Estimate | Kỹ thuật ước tính thời gian sử dụng ba kịch bản: lạc quan, khả năng nhất và bi quan | A time estimation technique using three scenarios: optimistic, most likely, and pessimistic |
+| PERT | Program Evaluation and Review Technique | Phương pháp phân tích mạng lịch trình sử dụng ước tính ba điểm để tính thời lượng dự kiến | A schedule network analysis method using three-point estimates to calculate expected duration |
+| Mũ neo/Cột mốc | Milestone | Điểm hoặc sự kiện quan trọng trong dự án, thường đánh dấu hoàn thành kết quả bàn giao chính hoặc giai đoạn dự án | A significant point or event in the project, typically marking completion of major deliverables or project phases |
+| Biểu đồ Gantt | Gantt Chart | Công cụ lập lịch trình trực quan hiển thị thời gian và mối quan hệ giữa các hoạt động dự án | A visual schedule tool showing the timing and relationships between project activities |
+| Biểu đồ mạng | Network Diagram | Biểu diễn đồ họa của các hoạt động dự án và mối quan hệ logic giữa chúng | A graphical representation of project activities and the logical relationships between them |
+| Phương pháp tiền nhiệm | Precedence Diagramming Method (PDM) | Kỹ thuật vẽ biểu đồ mạng lịch trình sử dụng hộp hoặc nút để biểu diễn hoạt động và mũi tên để thể hiện mối quan hệ logic | A schedule network diagramming technique using boxes or nodes to represent activities and arrows to show logical relationships |
+| Quan hệ kết thúc-bắt đầu | Finish-to-Start (FS) | Mối quan hệ logic trong đó hoạt động kế tiếp không thể bắt đầu cho đến khi hoạt động trước đó kết thúc | A logical relationship where the successor activity cannot start until the predecessor activity has finished |
+| Quan hệ bắt đầu-bắt đầu | Start-to-Start (SS) | Mối quan hệ logic trong đó hoạt động kế tiếp không thể bắt đầu cho đến khi hoạt động trước đó bắt đầu | A logical relationship where the successor activity cannot start until the predecessor activity has started |
+| Quan hệ kết thúc-kết thúc | Finish-to-Finish (FF) | Mối quan hệ logic trong đó hoạt động kế tiếp không thể kết thúc cho đến khi hoạt động trước đó kết thúc | A logical relationship where the successor activity cannot finish until the predecessor activity has finished |
+| Quan hệ bắt đầu-kết thúc | Start-to-Finish (SF) | Mối quan hệ logic trong đó hoạt động kế tiếp không thể kết thúc cho đến khi hoạt động trước đó bắt đầu | A logical relationship where the successor activity cannot finish until the predecessor activity has started |
+| Lead time | Lead | Lượng thời gian mà hoạt động kế tiếp có thể được đẩy nhanh so với hoạt động tiền nhiệm | The amount of time a successor activity can be advanced with respect to a predecessor activity |
+| Lag time | Lag | Lượng thời gian mà hoạt động kế tiếp phải bị trì hoãn so với hoạt động tiền nhiệm | The amount of time a successor activity must be delayed with respect to a predecessor activity |
+| Đường cơ sở lịch trình | Schedule Baseline | Phiên bản được phê duyệt của mô hình lịch trình có thể thay đổi thông qua quy trình kiểm soát thay đổi chính thức | The approved version of the schedule model that can be changed only through formal change control procedures |
+| Phân tích sai lệch | Variance Analysis | Kỹ thuật đo lường, so sánh và phân tích sự khác biệt giữa hiệu suất thực tế và kế hoạch | A technique for measuring, comparing, and analyzing the difference between actual and planned performance |
+| Cân bằng nguồn lực | Resource Leveling | Kỹ thuật phân tích mạng lịch trình áp dụng khi nguồn lực bị hạn chế hoặc biến động | A schedule network analysis technique applied when resources are limited or fluctuating |
+| Phương pháp chuỗi tới hạn | Critical Chain Method | Kỹ thuật lập lịch trình tập trung vào giới hạn nguồn lực, áp dụng khái niệm bộ đệm dự án và đường chuỗi tới hạn | A scheduling technique focusing on resource constraints, applying concepts of project buffers and critical chain |
+| Đường chuỗi tới hạn | Critical Chain | Chuỗi các hoạt động phụ thuộc cả về mặt logic và nguồn lực quyết định thời gian dự án | The sequence of both logically and resource-dependent activities that determine project timing |
+| Bộ đệm dự án | Project Buffer | Bộ đệm thời gian bảo vệ ngày kết thúc dự án trong phương pháp chuỗi tới hạn | A time buffer protecting the project end date in critical chain method |
+| Ngày sớm nhất có thể bắt đầu | Early Start Date | Ngày sớm nhất mà một hoạt động có thể bắt đầu dựa trên logic mạng và ràng buộc | The earliest possible date an activity can begin based on network logic and constraints |
+| Ngày trễ nhất có thể bắt đầu | Late Start Date | Ngày trễ nhất mà một hoạt động có thể bắt đầu mà không trì hoãn dự án | The latest date an activity can begin without delaying the project | 

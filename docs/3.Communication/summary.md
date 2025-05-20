@@ -1,204 +1,130 @@
-# Quản lý giao tiếp trong dự án (Project Communication Management)
+# Quản lý giao tiếp trong dự án | Project Communication Management
 
-## Định nghĩa và tầm quan trọng (Definition and Importance)
+## Định nghĩa và tầm quan trọng | Definition and Importance
 
-**Quản lý giao tiếp** là quy trình đảm bảo việc lập kế hoạch, thu thập, tạo ra, phân phối, lưu trữ, truy xuất, quản lý, kiểm soát, giám sát và xử lý thông tin dự án một cách kịp thời và thích hợp.
+**Quản lý giao tiếp** là quy trình đảm bảo việc lập kế hoạch, thu thập, tạo ra, phân phối, lưu trữ, truy xuất, quản lý, kiểm soát, giám sát và xử lý thông tin dự án một cách kịp thời và thích hợp. | **Communication Management** is the process of ensuring timely and appropriate planning, collection, creation, distribution, storage, retrieval, management, control, monitoring, and disposition of project information.
 
-**Communication Management** is the process of ensuring timely and appropriate planning, collection, creation, distribution, storage, retrieval, management, control, monitoring, and disposition of project information.
+**Tầm quan trọng | Importance:**
+- 90% thời gian của quản lý dự án dành cho giao tiếp | 90% of a project manager's time is spent on communication
+- Kỹ năng giao tiếp là yếu tố thành công quan trọng nhất của quản lý dự án | Communication skills are the most important success factor for project management
+- Giao tiếp kém là lý do hàng đầu dẫn đến thất bại dự án | Poor communication is the leading cause of project failure
+- Cần thiết cho việc quản lý các bên liên quan, đội dự án và các vấn đề | Essential for managing stakeholders, project team, and issues
 
-**Tầm quan trọng:**
-- 90% thời gian của quản lý dự án dành cho giao tiếp
-- Kỹ năng giao tiếp là yếu tố thành công quan trọng nhất của quản lý dự án
-- Giao tiếp kém là lý do hàng đầu dẫn đến thất bại dự án
-- Cần thiết cho việc quản lý các bên liên quan, đội dự án và các vấn đề
+## Quy trình quản lý giao tiếp | Communication Management Processes
 
-**Importance:**
-- 90% of a project manager's time is spent on communication
-- Communication skills are the most important success factor for project management
-- Poor communication is the leading cause of project failure
-- Essential for managing stakeholders, project team, and issues
+Theo PMBOK 6, quản lý giao tiếp bao gồm 3 quy trình chính | According to PMBOK 6, communication management includes 3 main processes:
 
-## Quy trình quản lý giao tiếp (Communication Management Processes)
+### 1. Lập kế hoạch quản lý giao tiếp | Plan Communications Management
+- **Nhóm quy trình | Process Group**: Lập kế hoạch | Planning
+- **Mục đích | Purpose**: Phát triển cách tiếp cận và kế hoạch phù hợp cho các hoạt động giao tiếp dự án dựa trên nhu cầu thông tin của mỗi bên liên quan | Develop an appropriate approach and plan for project communication activities based on each stakeholder's information needs
+- **Đầu ra chính | Main Output**: Kế hoạch quản lý giao tiếp | Communications Management Plan
 
-Theo PMBOK 6, quản lý giao tiếp bao gồm 3 quy trình chính:
+### 2. Quản lý giao tiếp | Manage Communications
+- **Nhóm quy trình | Process Group**: Thực hiện | Executing
+- **Mục đích | Purpose**: Đảm bảo thu thập, tạo ra, phân phối, lưu trữ, truy xuất, quản lý, giám sát và xử lý thông tin dự án một cách kịp thời và thích hợp | Ensure timely and appropriate collection, creation, distribution, storage, retrieval, management, monitoring, and disposition of project information
+- **Đầu ra chính | Main Output**: Thông tin liên lạc dự án, cập nhật kế hoạch quản lý dự án, cập nhật tài liệu dự án | Project communications, project management plan updates, project document updates
 
-According to PMBOK 6, communication management includes 3 main processes:
+### 3. Giám sát giao tiếp | Monitor Communications
+- **Nhóm quy trình | Process Group**: Giám sát & Kiểm soát | Monitoring & Controlling
+- **Mục đích | Purpose**: Đảm bảo đáp ứng nhu cầu thông tin của dự án và các bên liên quan | Ensure that information needs of the project and stakeholders are met
+- **Đầu ra chính | Main Output**: Thông tin hiệu suất công việc, yêu cầu thay đổi, cập nhật kế hoạch quản lý dự án | Work performance information, change requests, project management plan updates
 
-### 1. Lập kế hoạch quản lý giao tiếp (Plan Communications Management)
-- **Nhóm quy trình**: Lập kế hoạch (Planning)
-- **Mục đích**: Phát triển cách tiếp cận và kế hoạch phù hợp cho các hoạt động giao tiếp dự án dựa trên nhu cầu thông tin của mỗi bên liên quan
-- **Đầu ra chính**: Kế hoạch quản lý giao tiếp (Communications Management Plan)
+## Mô hình giao tiếp | Communication Models
 
-- **Process Group**: Planning
-- **Purpose**: Develop an appropriate approach and plan for project communication activities based on each stakeholder's information needs
-- **Main Output**: Communications Management Plan
+### Mô hình cơ bản | Basic Model
+**Thành phần | Components:**
+1. **Người gửi | Sender**: Người tạo và truyền thông điệp | Creates and transmits the message
+2. **Mã hóa | Encode**: Chuyển đổi ý tưởng thành ngôn ngữ | Converts thoughts into language
+3. **Thông điệp | Message**: Thông tin được truyền đạt | Information being conveyed
+4. **Phương tiện | Medium**: Phương pháp truyền tải thông điệp | Method of transmitting the message
+5. **Giải mã | Decode**: Chuyển đổi thông điệp thành ý tưởng | Converts message back into meaningful thoughts
+6. **Người nhận | Receiver**: Người nhận thông điệp | Person receiving the message
+7. **Xác nhận | Acknowledgment**: Xác nhận đã nhận thông điệp | Confirmation of receipt
+8. **Phản hồi | Feedback**: Phản hồi về thông điệp | Response to the message
+9. **Nhiễu | Noise**: Bất cứ điều gì cản trở việc hiểu thông điệp | Anything that interferes with understanding the message
 
-### 2. Quản lý giao tiếp (Manage Communications)
-- **Nhóm quy trình**: Thực hiện (Executing)
-- **Mục đích**: Đảm bảo thu thập, tạo ra, phân phối, lưu trữ, truy xuất, quản lý, giám sát và xử lý thông tin dự án một cách kịp thời và thích hợp
-- **Đầu ra chính**: Thông tin liên lạc dự án, cập nhật kế hoạch quản lý dự án, cập nhật tài liệu dự án
+### Loại giao tiếp | Communication Types
 
-- **Process Group**: Executing
-- **Purpose**: Ensure timely and appropriate collection, creation, distribution, storage, retrieval, management, monitoring, and disposition of project information
-- **Main Output**: Project communications, project management plan updates, project document updates
+#### 1. Giao tiếp tương tác | Interactive Communication
+- Trao đổi thông tin đa chiều, thời gian thực | Multi-directional exchange of information in real-time
+- Cuộc họp, gọi điện thoại, video, tin nhắn tức thời | Meetings, phone calls, video, instant messaging
+- **Hiệu quả nhất** trong việc đảm bảo hiểu chung | **Most effective** in ensuring common understanding
+- Được ưu tiên cho các vấn đề phức tạp hoặc nhạy cảm | Preferred for complex or sensitive issues
 
-### 3. Giám sát giao tiếp (Monitor Communications)
-- **Nhóm quy trình**: Giám sát & Kiểm soát (Monitoring & Controlling)
-- **Mục đích**: Đảm bảo đáp ứng nhu cầu thông tin của dự án và các bên liên quan
-- **Đầu ra chính**: Thông tin hiệu suất công việc, yêu cầu thay đổi, cập nhật kế hoạch quản lý dự án
+#### 2. Giao tiếp đẩy | Push Communication
+- Gửi thông tin cụ thể đến người nhận cụ thể | Sends specific information to specific recipients
+- Email, thư, báo cáo, bản ghi nhớ, thông báo | Emails, letters, reports, memos, notices
+- Đảm bảo phân phối thông tin nhưng không đảm bảo hiểu | Ensures information distribution but not understanding
 
-- **Process Group**: Monitoring & Controlling
-- **Purpose**: Ensure that information needs of the project and stakeholders are met
-- **Main Output**: Work performance information, change requests, project management plan updates
+#### 3. Giao tiếp kéo | Pull Communication
+- Người nhận truy cập thông tin theo ý muốn | Recipients access information at their discretion
+- Cổng thông tin, kho lưu trữ, cơ sở kiến thức | Intranet sites, knowledge repositories, databases
+- Hữu ích cho lượng lớn thông tin hoặc đối tượng lớn | Useful for large volumes of information or large audiences
 
-## Mô hình giao tiếp (Communication Models)
+### Phương pháp giao tiếp | Communication Methods
 
-### Mô hình cơ bản (Basic Model)
-**Thành phần (Components):**
-1. **Người gửi (Sender)**: Người tạo và truyền thông điệp
-2. **Mã hóa (Encode)**: Chuyển đổi ý tưởng thành ngôn ngữ
-3. **Thông điệp (Message)**: Thông tin được truyền đạt
-4. **Phương tiện (Medium)**: Phương pháp truyền tải thông điệp
-5. **Giải mã (Decode)**: Chuyển đổi thông điệp thành ý tưởng
-6. **Người nhận (Receiver)**: Người nhận thông điệp
-7. **Xác nhận (Acknowledgment)**: Xác nhận đã nhận thông điệp
-8. **Phản hồi (Feedback)**: Phản hồi về thông điệp
-9. **Nhiễu (Noise)**: Bất cứ điều gì cản trở việc hiểu thông điệp
+#### 1. Giao tiếp chính thức | Formal Communication
+- Kênh giao tiếp có cấu trúc và định trước | Structured, predetermined communication channels
+- Báo cáo, cuộc họp chính thức, văn bản dự án | Reports, formal meetings, project documents
+- Cần thiết cho thông tin quan trọng, quyết định, và phê duyệt | Necessary for important information, decisions, and approvals
 
-**Components:**
-1. **Sender**: Creates and transmits the message
-2. **Encode**: Converts thoughts into language
-3. **Message**: Information being conveyed
-4. **Medium**: Method of transmitting the message
-5. **Decode**: Converts message back into meaningful thoughts
-6. **Receiver**: Person receiving the message
-7. **Acknowledgment**: Confirmation of receipt
-8. **Feedback**: Response to the message
-9. **Noise**: Anything that interferes with understanding the message
+#### 2. Giao tiếp không chính thức | Informal Communication
+- Giao tiếp không theo cấu trúc định trước | Communication without predefined structure
+- Thảo luận bất thường, nhắn tin, trò chuyện ngẫu nhiên | Ad-hoc discussions, messaging, casual conversations
+- Hữu ích cho xây dựng mối quan hệ và giải quyết vấn đề nhanh chóng | Useful for relationship building and quick problem-solving
 
-### Loại giao tiếp (Communication Types)
+#### 3. Giao tiếp theo phân cấp | Hierarchical Communication
+- Đi theo chuỗi mệnh lệnh trong tổ chức | Follows chain of command in organization
+- Từ trên xuống, từ dưới lên | Top-down, bottom-up
+- Quan trọng trong tổ chức có cấu trúc cao | Important in highly structured organizations
 
-#### 1. Giao tiếp tương tác (Interactive Communication)
-- Trao đổi thông tin đa chiều, thời gian thực
-- Cuộc họp, gọi điện thoại, video, tin nhắn tức thời
-- **Hiệu quả nhất** trong việc đảm bảo hiểu chung
-- Được ưu tiên cho các vấn đề phức tạp hoặc nhạy cảm
+#### 4. Giao tiếp mạng lưới | Network Communication
+- Đa chiều giữa các thành viên nhóm | Multi-directional between team members
+- Cho phép luồng thông tin tự do hơn | Allows freer flow of information
+- Phổ biến trong các nhóm liên chức năng và dự án Agile | Common in cross-functional teams and Agile projects
 
-- Multi-directional exchange of information in real-time
-- Meetings, phone calls, video, instant messaging
-- **Most effective** in ensuring common understanding
-- Preferred for complex or sensitive issues
+## Kế hoạch quản lý giao tiếp | Communications Management Plan
 
-#### 2. Giao tiếp đẩy (Push Communication)
-- Gửi thông tin cụ thể đến người nhận cụ thể
-- Email, thư, báo cáo, bản ghi nhớ, thông báo
-- Đảm bảo phân phối thông tin nhưng không đảm bảo hiểu
+Kế hoạch quản lý giao tiếp là một thành phần của kế hoạch quản lý dự án mô tả cách thức giao tiếp dự án sẽ được lập kế hoạch, triển khai, giám sát và kiểm soát. | The communications management plan is a component of the project management plan that describes how project communications will be planned, structured, implemented, monitored, and controlled.
 
-- Sends specific information to specific recipients
-- Emails, letters, reports, memos, notices
-- Ensures information distribution but not understanding
+**Các thành phần của kế hoạch | Plan components:**
 
-#### 3. Giao tiếp kéo (Pull Communication)
-- Người nhận truy cập thông tin theo ý muốn
-- Cổng thông tin, kho lưu trữ, cơ sở kiến thức
-- Hữu ích cho lượng lớn thông tin hoặc đối tượng lớn
+1. **Yêu cầu giao tiếp của các bên liên quan | Stakeholder communication requirements**
+2. **Thông tin cần trao đổi | Information to be communicated**
+3. **Lý do cho việc phân phối thông tin | Reason for distributing information**
+4. **Khung thời gian và tần suất | Timeframe and frequency**
+5. **Người chịu trách nhiệm giao tiếp thông tin | Person responsible for communicating**
+6. **Người chịu trách nhiệm ủy quyền thông tin nhạy cảm | Person responsible for authorizing sensitive information**
+7. **Người hoặc nhóm nhận thông tin | Person or groups who will receive information**
+8. **Phương pháp hoặc công nghệ | Methods or technologies**
+9. **Nguồn lực được phân bổ | Resources allocated**
+10. **Quy trình báo cáo leo thang | Escalation process**
+11. **Phương pháp cập nhật kế hoạch | Method for updating the plan**
+12. **Thuật ngữ chung | Common terminology**
+13. **Sơ đồ luồng giao tiếp | Communication flow diagrams**
+14. **Hạn chế giao tiếp | Communication constraints**
 
-- Recipients access information at their discretion
-- Intranet sites, knowledge repositories, databases
-- Useful for large volumes of information or large audiences
+## Xác định nhu cầu giao tiếp | Determining Communication Needs
 
-### Phương pháp giao tiếp (Communication Methods)
+### 1. Công thức tính số kênh giao tiếp | Formula for communication channels
 
-#### 1. Giao tiếp chính thức (Formal Communication)
-- Kênh giao tiếp có cấu trúc và định trước
-- Báo cáo, cuộc họp chính thức, văn bản dự án
-- Cần thiết cho thông tin quan trọng, quyết định, và phê duyệt
+**n(n-1)/2**, trong đó n là số lượng bên liên quan | **n(n-1)/2**, where n is the number of stakeholders
 
-- Structured, predetermined communication channels
-- Reports, formal meetings, project documents
-- Necessary for important information, decisions, and approvals
+Ví dụ | Example: 
+- 5 bên liên quan = 5(5-1)/2 = 10 kênh giao tiếp | 5 stakeholders = 5(5-1)/2 = 10 communication channels
+- 10 bên liên quan = 10(10-1)/2 = 45 kênh giao tiếp | 10 stakeholders = 10(10-1)/2 = 45 communication channels  
+- 100 bên liên quan = 100(99)/2 = 4,950 kênh giao tiếp | 100 stakeholders = 100(99)/2 = 4,950 communication channels
 
-#### 2. Giao tiếp không chính thức (Informal Communication)
-- Giao tiếp không theo cấu trúc định trước
-- Thảo luận bất thường, nhắn tin, trò chuyện ngẫu nhiên
-- Hữu ích cho xây dựng mối quan hệ và giải quyết vấn đề nhanh chóng
+### 2. Phân tích yêu cầu giao tiếp | Communication Requirements Analysis
 
-- Communication without predefined structure
-- Ad-hoc discussions, messaging, casual conversations
-- Useful for relationship building and quick problem-solving
+Xác định nhu cầu thông tin của các bên liên quan dự án bằng cách xem xét | Determining the information needs of project stakeholders by considering:
 
-#### 3. Giao tiếp theo phân cấp (Hierarchical Communication)
-- Đi theo chuỗi mệnh lệnh trong tổ chức
-- Từ trên xuống, từ dưới lên
-- Quan trọng trong tổ chức có cấu trúc cao
-
-- Follows chain of command in organization
-- Top-down, bottom-up
-- Important in highly structured organizations
-
-#### 4. Giao tiếp mạng lưới (Network Communication)
-- Đa chiều giữa các thành viên nhóm
-- Cho phép luồng thông tin tự do hơn
-- Phổ biến trong các nhóm liên chức năng và dự án Agile
-
-- Multi-directional between team members
-- Allows freer flow of information
-- Common in cross-functional teams and Agile projects
-
-## Kế hoạch quản lý giao tiếp (Communications Management Plan)
-
-Kế hoạch quản lý giao tiếp là một thành phần của kế hoạch quản lý dự án mô tả cách thức giao tiếp dự án sẽ được lập kế hoạch, triển khai, giám sát và kiểm soát.
-
-The communications management plan is a component of the project management plan that describes how project communications will be planned, structured, implemented, monitored, and controlled.
-
-**Các thành phần của kế hoạch (Plan components):**
-
-1. **Yêu cầu giao tiếp của các bên liên quan** (Stakeholder communication requirements)
-2. **Thông tin cần trao đổi** (Information to be communicated)
-3. **Lý do cho việc phân phối thông tin** (Reason for distributing information)
-4. **Khung thời gian và tần suất** (Timeframe and frequency)
-5. **Người chịu trách nhiệm giao tiếp thông tin** (Person responsible for communicating)
-6. **Người chịu trách nhiệm ủy quyền thông tin nhạy cảm** (Person responsible for authorizing sensitive information)
-7. **Người hoặc nhóm nhận thông tin** (Person or groups who will receive information)
-8. **Phương pháp hoặc công nghệ** (Methods or technologies)
-9. **Nguồn lực được phân bổ** (Resources allocated)
-10. **Quy trình báo cáo leo thang** (Escalation process)
-11. **Phương pháp cập nhật kế hoạch** (Method for updating the plan)
-12. **Thuật ngữ chung** (Common terminology)
-13. **Sơ đồ luồng giao tiếp** (Communication flow diagrams)
-14. **Hạn chế giao tiếp** (Communication constraints)
-
-## Xác định nhu cầu giao tiếp (Determining Communication Needs)
-
-### 1. Công thức tính số kênh giao tiếp (Formula for communication channels)
-
-**n(n-1)/2**, trong đó n là số lượng bên liên quan
-
-**n(n-1)/2**, where n is the number of stakeholders
-
-Ví dụ: 
-- 5 bên liên quan = 5(5-1)/2 = 10 kênh giao tiếp
-- 10 bên liên quan = 10(10-1)/2 = 45 kênh giao tiếp
-- 100 bên liên quan = 100(99)/2 = 4,950 kênh giao tiếp
-
-Example:
-- 5 stakeholders = 5(5-1)/2 = 10 communication channels
-- 10 stakeholders = 10(10-1)/2 = 45 communication channels  
-- 100 stakeholders = 100(99)/2 = 4,950 communication channels
-
-### 2. Phân tích yêu cầu giao tiếp (Communication Requirements Analysis)
-
-Xác định nhu cầu thông tin của các bên liên quan dự án bằng cách xem xét:
-
-Determining the information needs of project stakeholders by considering:
-
-- **Cơ cấu tổ chức** (Organizational structure)
-- **Mối quan hệ trách nhiệm giữa các bên liên quan** (Stakeholder responsibility relationships)
-- **Ngành, lĩnh vực và lĩnh vực chuyên môn** (Disciplines, departments, and specialties)
-- **Số lượng người tham gia** (Number of people involved)
-- **Vị trí địa lý** (Geographic location)
-- **Nhu cầu thông tin nội bộ và bên ngoài** (Internal and external information needs)
-- **Yêu cầu của bên liên quan và lợi ích** (Stakeholder requirements and interests)
+- **Cơ cấu tổ chức | Organizational structure**
+- **Mối quan hệ trách nhiệm giữa các bên liên quan | Stakeholder responsibility relationships**
+- **Ngành, lĩnh vực và lĩnh vực chuyên môn | Disciplines, departments, and specialties**
+- **Số lượng người tham gia | Number of people involved**
+- **Vị trí địa lý | Geographic location**
+- **Nhu cầu thông tin nội bộ và bên ngoài | Internal and external information needs**
 
 ### 3. Công nghệ giao tiếp (Communication Technology)
 
