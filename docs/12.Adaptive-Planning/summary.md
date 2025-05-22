@@ -902,4 +902,32 @@
 
 Lập kế hoạch thích ứng là phương pháp quan trọng trong quản lý dự án hiện đại, đặc biệt trong môi trường thay đổi nhanh chóng. Bằng cách áp dụng các nguyên tắc, công cụ và kỹ thuật đã thảo luận, PM có thể tạo ra kế hoạch linh hoạt, phản ứng nhanh với thay đổi, và đáp ứng tốt hơn nhu cầu của các bên liên quan. Lập kế hoạch thích ứng không thay thế hoàn toàn các phương pháp truyền thống mà bổ sung cho chúng, cung cấp cho PM nhiều tùy chọn hơn để chọn phương pháp phù hợp nhất cho mỗi dự án.
 
-Adaptive planning is an essential approach in modern project management, especially in rapidly changing environments. By applying the principles, tools, and techniques discussed, PMs can create flexible plans that respond quickly to changes and better meet stakeholder needs. Adaptive planning doesn't completely replace traditional methods but complements them, giving PMs more options to choose the most appropriate approach for each project. 
+Adaptive planning is an essential approach in modern project management, especially in rapidly changing environments. By applying the principles, tools, and techniques discussed, PMs can create flexible plans that respond quickly to changes and better meet stakeholder needs. Adaptive planning doesn't completely replace traditional methods but complements them, giving PMs more options to choose the most appropriate approach for each project.
+
+# Quy trình liên quan đến Lập kế hoạch thích ứng | Adaptive Planning-related Processes
+
+## Sơ đồ quy trình lập kế hoạch thích ứng | Adaptive Planning Process Map
+
+```
+Adaptive Cycle (Chu trình thích ứng)
+├── Product Backlog (Danh mục sản phẩm)
+├── Release Planning (Lập kế hoạch phát hành)
+├── Iteration/Sprint Planning (Lập kế hoạch lặp/Sprint)
+├── Iteration/Sprint (Lặp/Sprint)
+│   ├── Daily Standup (Họp hàng ngày)
+│   ├── Development Work (Phát triển)
+│   ├── Review/Demo (Đánh giá/Sản phẩm mẫu)
+│   └── Retrospective (Cải tiến)
+```
+
+| Sự kiện/Quy trình | Mục đích | Đầu vào chính | Đầu ra chính |
+|-------------------|----------|---------------|--------------|
+| Product Backlog | Danh sách ưu tiên các yêu cầu sản phẩm | Yêu cầu khách hàng, phản hồi | Product Backlog được cập nhật |
+| Release Planning | Lập kế hoạch phát hành tổng thể | Product Backlog, Ưu tiên kinh doanh | Release Plan, Lộ trình |
+| Iteration/Sprint Planning | Lập kế hoạch cho chu kỳ ngắn | Product Backlog, Đội phát triển | Iteration/Sprint Backlog, Mục tiêu Iteration/Sprint |
+| Iteration/Sprint | Chu kỳ phát triển lặp lại | Iteration/Sprint Backlog | Increment (Gia tăng sản phẩm) |
+| Daily Standup | Đồng bộ hóa hoạt động hàng ngày | Iteration/Sprint Backlog, Công việc hôm qua/hôm nay | Kế hoạch cho 24h tiếp theo |
+| Review/Demo | Đánh giá kết quả, lấy phản hồi | Increment, Iteration/Sprint Backlog | Phản hồi, Product Backlog cập nhật |
+| Retrospective | Cải tiến quy trình làm việc | Iteration/Sprint vừa qua, Phản hồi đội | Hành động cải tiến cho Iteration/Sprint tiếp theo |
+
+> Xem chi tiết từng sự kiện/quy trình ở các phần bên dưới. 

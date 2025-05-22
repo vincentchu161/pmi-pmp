@@ -186,4 +186,28 @@ Trong PMBOK 7, Quản lý các bên liên quan là một trong tám miền hiệ
 - **Giải pháp** | **Solution**: Thiết lập kỳ vọng rõ ràng từ đầu, cung cấp dữ liệu để hỗ trợ quyết định, thương lượng phạm vi khi cần thiết | Set clear expectations early, provide data to support decisions, negotiate scope when necessary
 
 ### 5. Thiếu hỗ trợ từ lãnh đạo cấp cao | Lack of Senior Leadership Support
-- **Giải pháp** | **Solution**: Làm nổi bật lợi ích kinh doanh, liên kết dự án với mục tiêu chiến lược, cập nhật thường xuyên về tiến độ và thành công | Highlight business benefits, align project with strategic objectives, provide regular updates on progress and successes 
+- **Giải pháp** | **Solution**: Làm nổi bật lợi ích kinh doanh, liên kết dự án với mục tiêu chiến lược, cập nhật thường xuyên về tiến độ và thành công | Highlight business benefits, align project with strategic objectives, provide regular updates on progress and successes
+
+# Quy trình liên quan đến Các bên liên quan | Stakeholder-related Processes
+
+## Sơ đồ quy trình các bên liên quan | Stakeholder Process Map
+
+```
+Initiating (Khởi tạo)
+├── Identify Stakeholders (Xác định các bên liên quan)
+Planning (Lập kế hoạch)
+├── Plan Stakeholder Engagement (Lập kế hoạch tham gia các bên liên quan)
+Executing (Thực hiện)
+├── Manage Stakeholder Engagement (Quản lý sự tham gia của các bên liên quan)
+Monitoring & Controlling (Giám sát & Kiểm soát)
+├── Monitor Stakeholder Engagement (Theo dõi sự tham gia của các bên liên quan)
+```
+
+| Quy trình | Nhóm quy trình | Mô tả | Đầu vào chính | Đầu ra chính |
+|-----------|----------------|-------|---------------|--------------|
+| Identify Stakeholders | Initiating | Xác định các cá nhân, nhóm, tổ chức bị ảnh hưởng bởi dự án | Project Charter, Business Docs | Stakeholder Register |
+| Plan Stakeholder Engagement | Planning | Phát triển phương pháp thu hút các bên liên quan | Project Management Plan, Stakeholder Register | Stakeholder Engagement Plan |
+| Manage Stakeholder Engagement | Executing | Trao đổi, làm việc với các bên liên quan, giải quyết vấn đề | Stakeholder Engagement Plan, Project Docs | Change Requests, Project Docs Updates |
+| Monitor Stakeholder Engagement | Monitoring & Controlling | Giám sát mối quan hệ, điều chỉnh chiến lược tham gia | Project Management Plan, Work Performance Data | Work Performance Info, Change Requests |
+
+> Xem chi tiết từng quy trình ở các phần bên dưới. 

@@ -95,4 +95,33 @@ Theo dõi việc thực hiện kế hoạch, theo dõi rủi ro đã xác địn
 - **Chủ động vs Phản ứng | Proactive vs Reactive**: Quản lý rủi ro chủ động hiệu quả hơn phản ứng | Proactive risk management is more effective than reactive
 - **Trách nhiệm về rủi ro | Risk Responsibility**: Toàn bộ đội dự án chịu trách nhiệm xác định và quản lý rủi ro | The entire project team is responsible for identifying and managing risks
 - **Giao tiếp mở về rủi ro | Open Risk Communication**: Khuyến khích trao đổi thông tin rủi ro trong đội | Encourage open discussion of risks within the team
-- **Hội đồng rủi ro | Risk Board**: Nhóm có chuyên môn để hỗ trợ quản lý rủi ro trong dự án | Group with expertise to support risk management in the project 
+- **Hội đồng rủi ro | Risk Board**: Nhóm có chuyên môn để hỗ trợ quản lý rủi ro trong dự án | Group with expertise to support risk management in the project
+
+# Quy trình liên quan đến Rủi ro | Risk-related Processes
+
+## Sơ đồ quy trình rủi ro | Risk Process Map
+
+```
+Planning (Lập kế hoạch)
+├── Plan Risk Management (Lập kế hoạch QL rủi ro)
+├── Identify Risks (Xác định rủi ro)
+├── Perform Qualitative Risk Analysis (Phân tích định tính rủi ro)
+├── Perform Quantitative Risk Analysis (Phân tích định lượng rủi ro)
+├── Plan Risk Responses (Lập kế hoạch ứng phó rủi ro)
+Executing (Thực hiện)
+├── Implement Risk Responses (Thực hiện ứng phó rủi ro)
+Monitoring & Controlling (Giám sát & Kiểm soát)
+├── Monitor Risks (Giám sát rủi ro)
+```
+
+| Quy trình | Nhóm quy trình | Mô tả | Đầu vào chính | Đầu ra chính |
+|-----------|----------------|-------|---------------|--------------|
+| Plan Risk Management | Planning | Xác định cách tiếp cận, lập kế hoạch quản lý rủi ro | Project Charter, Project Management Plan | Risk Management Plan |
+| Identify Risks | Planning | Xác định các rủi ro tiềm ẩn có thể ảnh hưởng dự án | Project Docs, Stakeholder Register | Risk Register, Risk Report |
+| Perform Qualitative Risk Analysis | Planning | Đánh giá xác suất và tác động của rủi ro | Risk Register, Risk Management Plan | Updated Risk Register, Risk Report |
+| Perform Quantitative Risk Analysis | Planning | Phân tích số liệu để định lượng ảnh hưởng rủi ro | Risk Register, Cost/Schedule Docs | Updated Risk Register, Quantitative Analysis Results |
+| Plan Risk Responses | Planning | Lập kế hoạch hành động ứng phó rủi ro | Risk Register, Risk Report | Change Requests, Updated Project Docs |
+| Implement Risk Responses | Executing | Thực hiện các hành động ứng phó đã lên kế hoạch | Risk Register, Project Management Plan | Issue Log, Change Requests |
+| Monitor Risks | Monitoring & Controlling | Theo dõi rủi ro, đánh giá hiệu quả ứng phó | Risk Register, Work Performance Data | Work Performance Info, Change Requests |
+
+> Xem chi tiết từng quy trình ở các phần bên dưới. 

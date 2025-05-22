@@ -1,5 +1,27 @@
 # Quản lý chi phí và nguồn lực dự án | Cost and Resource Management
 
+# Quy trình liên quan đến Chi phí | Cost-related Processes
+
+## Sơ đồ quy trình chi phí | Cost Process Map
+
+```
+Planning (Lập kế hoạch)
+├── Plan Cost Management (Lập kế hoạch QL chi phí)
+├── Estimate Costs (Ước lượng chi phí)
+├── Determine Budget (Xác định ngân sách)
+Monitoring & Controlling (Giám sát & Kiểm soát)
+├── Control Costs (Kiểm soát chi phí)
+```
+
+| Quy trình | Nhóm quy trình | Mô tả | Đầu vào chính | Đầu ra chính |
+|-----------|----------------|-------|---------------|--------------|
+| Plan Cost Management | Planning | Xác định cách lập kế hoạch, quản lý, kiểm soát chi phí | Project Charter, Project Management Plan | Cost Management Plan |
+| Estimate Costs | Planning | Ước lượng chi phí cho từng hoạt động/gói công việc | Scope Baseline, Resource Calendars | Cost Estimates, Basis of Estimates |
+| Determine Budget | Planning | Tổng hợp chi phí ước lượng để xác định ngân sách | Cost Estimates, Project Schedule | Cost Baseline, Project Funding Requirements |
+| Control Costs | Monitoring & Controlling | Theo dõi chi phí, kiểm soát thay đổi ngân sách | Cost Baseline, Work Performance Data | Cost Forecasts, Change Requests |
+
+> Xem chi tiết từng quy trình ở các phần bên dưới.
+
 ## Quản lý chi phí dự án | Project Cost Management
 
 ### Định nghĩa và phạm vi | Definition and Scope

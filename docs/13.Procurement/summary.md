@@ -363,4 +363,25 @@ According to PMBOK 6, procurement management includes 3 main processes:
 - Procurement data analytics
 - Smart contracts
 - Process automation
-- Blockchain for transparency 
+- Blockchain for transparency
+
+# Quy trình liên quan đến Mua sắm | Procurement-related Processes
+
+## Sơ đồ quy trình mua sắm | Procurement Process Map
+
+```
+Planning (Lập kế hoạch)
+├── Plan Procurement Management (Lập kế hoạch QL mua sắm)
+Executing (Thực hiện)
+├── Conduct Procurements (Thực hiện mua sắm)
+Monitoring & Controlling (Giám sát & Kiểm soát)
+├── Control Procurements (Kiểm soát mua sắm)
+```
+
+| Quy trình | Nhóm quy trình | Mô tả | Đầu vào chính | Đầu ra chính |
+|-----------|----------------|-------|---------------|--------------|
+| Plan Procurement Management | Planning | Xác định nhu cầu mua sắm, phát triển chiến lược và tài liệu mua sắm | Project Charter, Business Docs | Procurement Management Plan, Procurement Strategy |
+| Conduct Procurements | Executing | Lấy phản hồi, lựa chọn nhà cung cấp, ký hợp đồng | Procurement Docs, Seller Proposals | Selected Sellers, Agreements |
+| Control Procurements | Monitoring & Controlling | Quản lý hợp đồng, giám sát hiệu suất, xử lý thay đổi | Agreements, Procurement Docs | Work Performance Info, Closed Procurements |
+
+> Xem chi tiết từng quy trình ở các phần bên dưới. 

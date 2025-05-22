@@ -151,4 +151,30 @@ Trong PMP, Project Manager có thể thực hiện nhiều vai trò trong môi t
 - **User Stories**: Phương pháp mô tả yêu cầu từ góc độ người dùng | Method for describing requirements from user perspective
 - **Continuous Integration**: Tích hợp mã liên tục để phát hiện vấn đề sớm | Continuously integrating code to detect issues early
 - **Automated Testing**: Kiểm thử tự động để đảm bảo chất lượng | Automated testing to ensure quality
-- **Sustainable Pace**: Nhịp độ làm việc có thể duy trì dài hạn | Work pace that can be maintained long-term 
+- **Sustainable Pace**: Nhịp độ làm việc có thể duy trì dài hạn | Work pace that can be maintained long-term
+
+# Quy trình liên quan đến Agile/Scrum | Agile/Scrum-related Processes
+
+## Sơ đồ quy trình Agile/Scrum | Agile/Scrum Process Map
+
+```
+Iterative Cycle (Chu trình lặp)
+├── Product Backlog (Danh mục sản phẩm)
+├── Sprint Planning (Lập kế hoạch Sprint)
+├── Sprint (Sprint)
+│   ├── Daily Scrum (Họp Scrum hàng ngày)
+│   ├── Development Work (Phát triển)
+│   ├── Sprint Review (Đánh giá Sprint)
+│   └── Sprint Retrospective (Cải tiến Sprint)
+```
+
+| Sự kiện/Quy trình | Mục đích | Đầu vào chính | Đầu ra chính |
+|-------------------|----------|---------------|--------------|
+| Product Backlog | Danh sách ưu tiên các yêu cầu sản phẩm | Yêu cầu khách hàng, phản hồi | Product Backlog được cập nhật |
+| Sprint Planning | Lập kế hoạch cho Sprint | Product Backlog, Đội phát triển | Sprint Backlog, Mục tiêu Sprint |
+| Sprint | Chu kỳ phát triển lặp lại | Sprint Backlog | Increment (Gia tăng sản phẩm) |
+| Daily Scrum | Đồng bộ hóa hoạt động hàng ngày | Sprint Backlog, Công việc hôm qua/hôm nay | Kế hoạch cho 24h tiếp theo |
+| Sprint Review | Đánh giá kết quả Sprint, lấy phản hồi | Increment, Sprint Backlog | Phản hồi, Product Backlog cập nhật |
+| Sprint Retrospective | Cải tiến quy trình làm việc | Sprint vừa qua, Phản hồi đội | Hành động cải tiến cho Sprint tiếp theo |
+
+> Xem chi tiết từng sự kiện/quy trình ở các phần bên dưới. 

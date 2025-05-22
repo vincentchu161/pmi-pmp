@@ -165,4 +165,35 @@ Bao gồm xác định các bên liên quan, lập kế hoạch, quản lý và 
   - Phát triển phương pháp luận và thực hành | Developing methodologies and practices
   - Đào tạo, hướng dẫn và giám sát | Training, mentoring, and oversight
   - Giám sát tuân thủ | Monitoring compliance
-  - Phối hợp truyền thông | Coordinating communication 
+  - Phối hợp truyền thông | Coordinating communication
+
+# Quy trình tổng quan quản lý dự án | Project Management Overview Processes
+
+## Sơ đồ quy trình tổng quan | Project Management Process Map
+
+```
+Initiating (Khởi động)
+├── Develop Project Charter (Xây dựng điều lệ dự án)
+├── Identify Stakeholders (Xác định các bên liên quan)
+Planning (Lập kế hoạch)
+├── Develop Project Management Plan (Lập kế hoạch QL dự án)
+├── Plan Knowledge Areas (Lập kế hoạch các lĩnh vực kiến thức)
+Executing (Thực hiện)
+├── Direct and Manage Project Work (Chỉ đạo & quản lý công việc dự án)
+├── Manage Knowledge Areas (Quản lý các lĩnh vực kiến thức)
+Monitoring & Controlling (Giám sát & Kiểm soát)
+├── Monitor and Control Project Work (Giám sát & kiểm soát công việc dự án)
+├── Perform Integrated Change Control (Kiểm soát thay đổi tích hợp)
+Closing (Đóng dự án)
+├── Close Project or Phase (Đóng dự án hoặc giai đoạn)
+```
+
+| Nhóm quy trình | Mục đích | Quy trình chính | Đầu ra chính |
+|----------------|----------|-----------------|--------------|
+| Initiating | Xác định và ủy quyền dự án/giai đoạn | Develop Project Charter, Identify Stakeholders | Project Charter, Stakeholder Register |
+| Planning | Xác định phạm vi, mục tiêu, kế hoạch hành động | Develop Project Management Plan, Plan Scope/Schedule/Cost/Quality/etc. | Project Management Plan, Baselines |
+| Executing | Thực hiện công việc dự án theo kế hoạch | Direct and Manage Project Work, Manage Team/Quality/Comms/etc. | Deliverables, Work Performance Data |
+| Monitoring & Controlling | Theo dõi, đánh giá, điều chỉnh tiến độ và hiệu suất | Monitor/Control Project Work, Perform Integrated Change Control | Work Performance Reports, Change Requests |
+| Closing | Hoàn thành và đóng dự án/giai đoạn | Close Project or Phase | Final Product, Lessons Learned, Project Closure Docs |
+
+> Xem chi tiết từng nhóm quy trình ở các phần bên dưới. 

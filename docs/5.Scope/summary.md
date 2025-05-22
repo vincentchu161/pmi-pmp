@@ -72,4 +72,30 @@ Giám sát trạng thái phạm vi dự án và sản phẩm, quản lý thay đ
 - **Hiểu rõ về WBS | Understand the WBS**: WBS là nền tảng cho lập kế hoạch chi phí, lịch trình, rủi ro và nguồn lực | WBS is the foundation for cost, schedule, risk, and resource planning
 - **Quy tắc 100% | The 100% Rule**: WBS phải bao gồm 100% công việc dự án, không thiếu, không thừa | WBS must include 100% of project work, no more, no less
 - **Xác nhận phạm vi vs. Kiểm soát chất lượng | Validate Scope vs. Quality Control**: Xác nhận phạm vi tập trung vào việc chấp nhận kết quả bàn giao, trong khi kiểm soát chất lượng tập trung vào tính đúng đắn của kết quả bàn giao | Validate Scope focuses on acceptance of deliverables, while Quality Control focuses on correctness of deliverables
-- **Nhớ các dấu hiệu của scope creep | Remember signs of scope creep**: Bao gồm thay đổi không được phê duyệt, gold plating (thêm chức năng không cần thiết), và yêu cầu bổ sung không được quản lý | Including unauthorized changes, gold plating (adding unnecessary features), and unmanaged additional requirements 
+- **Nhớ các dấu hiệu của scope creep | Remember signs of scope creep**: Bao gồm thay đổi không được phê duyệt, gold plating (thêm chức năng không cần thiết), và yêu cầu bổ sung không được quản lý | Including unauthorized changes, gold plating (adding unnecessary features), and unmanaged additional requirements
+
+# Quy trình liên quan đến Phạm vi | Scope-related Processes
+
+## Sơ đồ quy trình phạm vi | Scope Process Map
+
+```
+Planning (Lập kế hoạch)
+├── Plan Scope Management (Lập kế hoạch QL phạm vi)
+├── Collect Requirements (Thu thập yêu cầu)
+├── Define Scope (Xác định phạm vi)
+├── Create WBS (Tạo WBS)
+Monitoring & Controlling (Giám sát & Kiểm soát)
+├── Validate Scope (Xác nhận phạm vi)
+├── Control Scope (Kiểm soát phạm vi)
+```
+
+| Quy trình | Nhóm quy trình | Mô tả | Đầu vào chính | Đầu ra chính |
+|-----------|----------------|-------|---------------|--------------|
+| Plan Scope Management | Planning | Xác định cách quản lý phạm vi dự án | Project Charter, Project Management Plan | Scope Management Plan |
+| Collect Requirements | Planning | Thu thập nhu cầu, mong đợi của stakeholder | Stakeholder Register, Project Charter | Requirements Documentation, Traceability Matrix |
+| Define Scope | Planning | Mô tả chi tiết phạm vi sản phẩm/dự án | Requirements Documentation, Charter | Project Scope Statement |
+| Create WBS | Planning | Chia nhỏ phạm vi thành các gói công việc | Scope Statement, Requirements Docs | WBS, WBS Dictionary |
+| Validate Scope | Monitoring & Controlling | Xác nhận sản phẩm/dịch vụ đã hoàn thành đúng phạm vi | Verified Deliverables, Scope Docs | Accepted Deliverables, Change Requests |
+| Control Scope | Monitoring & Controlling | Kiểm soát thay đổi phạm vi, ngăn scope creep | Project Management Plan, Work Performance Data | Work Performance Info, Change Requests |
+
+> Xem chi tiết từng quy trình ở các phần bên dưới. 

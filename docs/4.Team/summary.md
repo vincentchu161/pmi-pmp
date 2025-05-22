@@ -70,4 +70,31 @@ Kết thúc dự án, giải tán đội | Project completion, team disbands
 - **Biểu đồ RACI | RACI Chart**: Phân công Responsible (chịu trách nhiệm), Accountable (chịu trách nhiệm giải trình), Consulted (tham vấn), Informed (thông báo) | Assigning Responsible, Accountable, Consulted, Informed roles
 - **Ma trận phân công trách nhiệm | Responsibility Assignment Matrix**: Liên kết các hoạt động với các thành viên đội | Linking activities with team members
 - **Đánh giá hiệu suất | Performance Evaluation**: Đánh giá hiệu quả và đóng góp của thành viên | Assessing member effectiveness and contributions
-- **Phần mềm quản lý nhóm | Team Management Software**: Công cụ phối hợp, giao tiếp và theo dõi công việc | Tools for coordination, communication, and task tracking 
+- **Phần mềm quản lý nhóm | Team Management Software**: Công cụ phối hợp, giao tiếp và theo dõi công việc | Tools for coordination, communication, and task tracking
+
+# Quy trình liên quan đến Nguồn lực | Resource-related Processes
+
+## Sơ đồ quy trình nguồn lực | Resource Process Map
+
+```
+Planning (Lập kế hoạch)
+├── Plan Resource Management (Lập kế hoạch QL nguồn lực)
+├── Estimate Activity Resources (Ước lượng nguồn lực)
+Executing (Thực hiện)
+├── Acquire Resources (Thu nhận nguồn lực)
+├── Develop Team (Phát triển nhóm)
+├── Manage Team (Quản lý nhóm)
+Monitoring & Controlling (Giám sát & Kiểm soát)
+├── Control Resources (Kiểm soát nguồn lực)
+```
+
+| Quy trình | Nhóm quy trình | Mô tả | Đầu vào chính | Đầu ra chính |
+|-----------|----------------|-------|---------------|--------------|
+| Plan Resource Management | Planning | Xác định cách lập kế hoạch, quản lý nguồn lực | Project Charter, Project Management Plan | Resource Management Plan |
+| Estimate Activity Resources | Planning | Ước lượng loại và số lượng nguồn lực cho từng hoạt động | Scope Baseline, Activity List | Resource Requirements, Resource Breakdown Structure |
+| Acquire Resources | Executing | Thu nhận nhân sự, vật tư, thiết bị cho dự án | Resource Management Plan, Project Schedule | Physical Resource Assignments, Project Team Assignments |
+| Develop Team | Executing | Nâng cao năng lực, động lực, gắn kết nhóm | Resource Management Plan, Project Staff Assignments | Team Performance Assessments, Change Requests |
+| Manage Team | Executing | Theo dõi hiệu suất, giải quyết xung đột, đánh giá thành viên | Resource Management Plan, Work Performance Reports | Change Requests, Project Management Plan Updates |
+| Control Resources | Monitoring & Controlling | Đảm bảo nguồn lực được sử dụng đúng kế hoạch | Resource Management Plan, Issue Log | Work Performance Info, Change Requests |
+
+> Xem chi tiết từng quy trình ở các phần bên dưới. 

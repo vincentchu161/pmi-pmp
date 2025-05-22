@@ -51,12 +51,89 @@ Giám sát trạng thái dự án để cập nhật tiến độ và quản lý
 - **Kỹ thuật đánh giá và xem xét chương trình (PERT) | Program Evaluation and Review Technique (PERT)**: Phân tích thống kê thời gian hoạt động với ước tính ba điểm | Statistical analysis of activity times with three-point estimates
 - **Phân tích kịch bản what-if | What-If Scenario Analysis**: Đánh giá tác động của các kịch bản khác nhau đến lịch trình dự án | Evaluating the impact of different scenarios on the project schedule
 
+## Phân tích đường găng (Critical Path Method - CPM) | Critical Path Method (CPM) Analysis
+
+### Định nghĩa | Definition
+- **Biểu đồ găng (CPM)** là kỹ thuật lập lịch trình xác định chuỗi các hoạt động dài nhất (đường găng) và tính toán thời gian hoàn thành sớm nhất của dự án.
+- **Critical Path Method (CPM)** is a scheduling technique that identifies the longest sequence of dependent activities (the critical path) and calculates the earliest project completion time.
+
+### Mục đích và tầm quan trọng | Purpose and Importance
+- Xác định các hoạt động then chốt quyết định thời gian hoàn thành dự án | Identifies key activities that determine the project's duration
+- Giúp quản lý tiến độ, phân bổ nguồn lực hiệu quả | Helps manage schedule and allocate resources efficiently
+- Phát hiện các hoạt động có thể bị trì hoãn mà không ảnh hưởng đến tổng tiến độ | Identifies activities that can be delayed without affecting the overall schedule (float/slack)
+- Là công cụ quan trọng trong kiểm soát tiến độ và ra quyết định | Essential tool for schedule control and decision-making
+
+### Các bước thực hiện CPM | Steps in CPM
+1. **Liệt kê các hoạt động dự án | List Project Activities**
+   - Xác định tất cả các công việc cần thiết để hoàn thành dự án | Identify all tasks required to complete the project
+2. **Xác định mối quan hệ phụ thuộc | Define Dependencies**
+   - Xác định thứ tự thực hiện và các mối quan hệ giữa các hoạt động (FS, SS, FF, SF) | Define the sequence and dependencies (Finish-to-Start, Start-to-Start, etc.)
+3. **Ước tính thời lượng từng hoạt động | Estimate Activity Durations**
+   - Ước tính thời gian cần thiết cho mỗi hoạt động | Estimate the duration for each activity
+4. **Vẽ sơ đồ mạng lưới | Draw the Network Diagram**
+   - Biểu diễn các hoạt động và mối quan hệ bằng sơ đồ mạng (Network Diagram) | Represent activities and dependencies in a network diagram
+5. **Xác định đường găng | Identify the Critical Path**
+   - Tính toán thời gian sớm nhất (Early Start/Finish) và trễ nhất (Late Start/Finish) cho từng hoạt động | Calculate Early Start (ES), Early Finish (EF), Late Start (LS), Late Finish (LF) for each activity
+   - Đường găng là chuỗi hoạt động có tổng thời gian dài nhất, không có thời gian nổi (Total Float = 0) | The critical path is the longest path through the network, with zero total float
+6. **Tính toán thời gian nổi (Float/Slack) | Calculate Float/Slack**
+   - **Total Float**: Thời gian một hoạt động có thể bị trì hoãn mà không làm trễ dự án | Time an activity can be delayed without delaying the project
+   - **Free Float**: Thời gian một hoạt động có thể bị trì hoãn mà không làm trễ hoạt động tiếp theo | Time an activity can be delayed without delaying the next activity
+
+### Ký hiệu và công thức quan trọng | Key Notations and Formulas
+- **ES (Early Start)**: Thời điểm sớm nhất có thể bắt đầu | Earliest possible start time
+- **EF (Early Finish)**: ES + Duration | ES + Thời lượng
+- **LS (Late Start)**: Thời điểm trễ nhất có thể bắt đầu mà không làm trễ dự án | Latest possible start time without delaying the project
+- **LF (Late Finish)**: LS + Duration | LS + Thời lượng
+- **Total Float** = LS - ES = LF - EF
+- **Free Float** = ES của hoạt động kế tiếp - EF của hoạt động hiện tại
+
+### Ví dụ minh họa | Example
+**Giả sử có các hoạt động sau:**
+| Hoạt động | Thời lượng (ngày) | Tiền nhiệm |
+|-----------|-------------------|-----------|
+| A         | 2                 | -         |
+| B         | 4                 | A         |
+| C         | 3                 | A         |
+| D         | 2                 | B, C      |
+
+**Sơ đồ mạng:**
+- A → B → D
+- A → C → D
+
+**Tính đường găng:**
+- Đường A-B-D: 2 + 4 + 2 = 8 ngày
+- Đường A-C-D: 2 + 3 + 2 = 7 ngày
+- **Đường găng là A-B-D (8 ngày)**
+
+### Ứng dụng thực tế và mẹo thi PMP | Practical Use & PMP Exam Tips
+- **Hoạt động trên đường găng có Total Float = 0** | Activities on the critical path have zero total float
+- **Nếu một hoạt động trên đường găng bị trễ, toàn bộ dự án sẽ bị trễ** | If a critical path activity is delayed, the whole project is delayed
+- **Có thể có nhiều hơn một đường găng** | There can be more than one critical path
+- **Đường găng có thể thay đổi trong quá trình thực hiện dự án** | The critical path can change as the project progresses
+- **PMP Exam:** Câu hỏi thường yêu cầu xác định đường găng, tính float, hoặc tác động của việc thay đổi thời lượng hoạt động | PMP questions often ask to identify the critical path, calculate float, or assess the impact of duration changes
+
+### Công cụ hỗ trợ | Tools
+- **Biểu đồ mạng (Network Diagram)**
+- **Phần mềm quản lý dự án (MS Project, Primavera, v.v.)**
+- **Gantt Chart**: Dùng để trực quan hóa tiến độ, nhưng CPM mới là công cụ phân tích đường găng | Gantt charts visualize schedule, but CPM is used for critical path analysis
+
+**Tóm tắt nhanh | Quick Summary:**
+- Đường găng = Chuỗi hoạt động dài nhất, quyết định thời gian dự án
+- Hoạt động trên đường găng: Total Float = 0
+- Biết cách vẽ sơ đồ mạng, tính ES, EF, LS, LF, Float
+- Ứng dụng CPM để kiểm soát tiến độ, tối ưu nguồn lực, và trả lời các câu hỏi PMP về tiến độ
+
 ### Tối ưu hóa lịch trình | Schedule Optimization
 - **Nén lịch trình | Schedule Compression**
-  - **Fast tracking | Fast Tracking**: Thực hiện các hoạt động song song/chồng chéo | Performing activities in parallel/overlapping
-  - **Crashing | Crashing**: Thêm nguồn lực để rút ngắn thời gian | Adding resources to shorten duration
-- **Cân bằng nguồn lực | Resource Leveling**: Điều chỉnh lịch trình dựa trên nhu cầu và giới hạn nguồn lực | Adjusting the schedule based on resource demands and constraints
-- **Phân tích thời gian chờ đợi | Float Analysis**: Sử dụng thời gian nổi (float/slack) để tối ưu hóa lịch trình | Using float/slack time to optimize the schedule
+  - **Fast tracking | Fast Tracking**: Thực hiện các hoạt động song song/chồng 
+  chéo | Performing activities in parallel/overlapping
+  - **Crashing | Crashing**: Thêm nguồn lực để rút ngắn thời gian | Adding 
+  resources to shorten duration
+- **Cân bằng nguồn lực | Resource Leveling**: Điều chỉnh lịch trình dựa trên nhu 
+cầu và giới hạn nguồn lực | Adjusting the schedule based on resource demands and 
+constraints
+- **Phân tích thời gian chờ đợi | Float Analysis**: Sử dụng thời gian nổi (float/
+slack) để tối ưu hóa lịch trình | Using float/slack time to optimize the schedule
 
 ## Các khái niệm quan trọng | Key Concepts
 - **Đường găng (Critical Path) | Critical Path**: Chuỗi hoạt động dài nhất xác định thời gian hoàn thành dự án | The longest sequence of activities that determines project completion time
@@ -78,4 +155,30 @@ Giám sát trạng thái dự án để cập nhật tiến độ và quản lý
 - **Phân biệt Fast tracking và Crashing | Distinguish between Fast tracking and Crashing**: Fast tracking tăng rủi ro, Crashing tăng chi phí | Fast tracking increases risk, Crashing increases cost
 - **Thành thạo ước tính | Master estimation techniques**: Hiểu các ưu điểm và nhược điểm của từng phương pháp | Understand advantages and disadvantages of each method
 - **Nắm vững công thức PERT | Know PERT formula**: (O + 4M + P) / 6 cho ước tính trung bình, sqrt[(P-O)/6] cho độ lệch chuẩn | (O + 4M + P) / 6 for average estimate, sqrt[(P-O)/6] for standard deviation
-- **Hiểu thời gian nổi | Understand float time**: Thời gian nổi tổng thể ảnh hưởng đến dự án, thời gian nổi tự do ảnh hưởng đến hoạt động tiếp theo | Total float affects project, free float affects next activity 
+- **Hiểu thời gian nổi | Understand float time**: Thời gian nổi tổng thể ảnh hưởng đến dự án, thời gian nổi tự do ảnh hưởng đến hoạt động tiếp theo | Total float affects project, free float affects next activity
+
+# Quy trình liên quan đến Tiến độ | Schedule-related Processes
+
+## Sơ đồ quy trình tiến độ | Schedule Process Map
+
+```
+Planning (Lập kế hoạch)
+├── Plan Schedule Management (Lập kế hoạch QL tiến độ)
+├── Define Activities (Xác định hoạt động)
+├── Sequence Activities (Sắp xếp thứ tự hoạt động)
+├── Estimate Activity Durations (Ước lượng thời lượng)
+├── Develop Schedule (Lập tiến độ)
+Monitoring & Controlling (Giám sát & Kiểm soát)
+├── Control Schedule (Kiểm soát tiến độ)
+```
+
+| Quy trình | Nhóm quy trình | Mô tả | Đầu vào chính | Đầu ra chính |
+|-----------|----------------|-------|---------------|--------------|
+| Plan Schedule Management | Planning | Xác định cách lập kế hoạch, phát triển, quản lý tiến độ | Project Charter, Project Management Plan | Schedule Management Plan |
+| Define Activities | Planning | Xác định các hoạt động cần thiết để hoàn thành các gói công việc | Scope Baseline, EEFs, OPAs | Activity List, Activity Attributes |
+| Sequence Activities | Planning | Sắp xếp thứ tự các hoạt động, xác định mối quan hệ logic | Activity List, Milestone List | Project Schedule Network Diagrams |
+| Estimate Activity Durations | Planning | Ước lượng thời lượng cần thiết cho từng hoạt động | Activity List, Resource Calendars | Duration Estimates |
+| Develop Schedule | Planning | Phân tích trình tự, thời lượng, nguồn lực để tạo lịch trình dự án | Activity List, Duration Estimates | Project Schedule, Schedule Baseline |
+| Control Schedule | Monitoring & Controlling | Theo dõi tiến độ, quản lý thay đổi lịch trình | Project Schedule, Work Performance Data | Schedule Forecasts, Change Requests |
+
+> Xem chi tiết từng quy trình ở các phần bên dưới. 

@@ -115,4 +115,25 @@
 - Tổ chức hội thảo với các bên liên quan để xác định giá trị | Organizing stakeholder workshops to identify value
 - Tạo bảng giá trị kinh doanh cho dự án | Creating a business value table for the project
 - Xây dựng cây mục tiêu giá trị | Building a value objective tree
-- Liên kết giá trị với mục tiêu chiến lược tổ chức | Linking value to organizational strategic objectives 
+- Liên kết giá trị với mục tiêu chiến lược tổ chức | Linking value to organizational strategic objectives
+
+# Quy trình liên quan đến Quản lý dự án hướng giá trị | Value-Driven Project Management-related Processes
+
+## Sơ đồ quy trình hướng giá trị | Value-Driven Process Map
+
+```
+Value Delivery Cycle (Chu trình tạo giá trị)
+├── Identify Value (Xác định giá trị)
+├── Plan Value Delivery (Lập kế hoạch giao giá trị)
+├── Deliver Value (Thực thi giao giá trị)
+├── Measure & Improve Value (Đo lường & cải tiến giá trị)
+```
+
+| Sự kiện/Quy trình | Mục đích | Đầu vào chính | Đầu ra chính |
+|-------------------|----------|---------------|--------------|
+| Identify Value | Xác định giá trị kinh doanh, mục tiêu chiến lược | Stakeholder Needs, Business Strategy | Value Definition, Value Metrics |
+| Plan Value Delivery | Lập kế hoạch giao giá trị, ưu tiên hóa | Value Definition, Business Case | Value Delivery Plan, Prioritized Backlog |
+| Deliver Value | Thực thi các hoạt động tạo giá trị | Value Delivery Plan, Project Resources | Value Increments, Feedback |
+| Measure & Improve Value | Đo lường, đánh giá và cải tiến giá trị | Value Metrics, Feedback | Value Reports, Improvement Actions |
+
+> Xem chi tiết từng sự kiện/quy trình ở các phần bên dưới. 

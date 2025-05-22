@@ -80,4 +80,25 @@ Giám sát và ghi lại kết quả thực hiện các hoạt động quản l�
 - Phân biệt rõ 3 quy trình quản lý chất lượng: Lập kế hoạch, đảm bảo và kiểm soát | Clearly distinguish the 3 quality management processes: planning, assurance, and control
 - Hiểu rõ 7 công cụ chất lượng cơ bản và khi nào sử dụng chúng | Understand the 7 basic quality tools and when to use them
 - Phân biệt giữa phòng ngừa (ngăn lỗi xảy ra) và kiểm tra (tìm lỗi khi xảy ra) | Distinguish between prevention (stopping errors from occurring) and inspection (finding errors when they occur)
-- Biết các loại chi phí chất lượng và mối quan hệ giữa chúng | Know the types of quality costs and the relationship between them 
+- Biết các loại chi phí chất lượng và mối quan hệ giữa chúng | Know the types of quality costs and the relationship between them
+
+# Quy trình liên quan đến Chất lượng | Quality-related Processes
+
+## Sơ đồ quy trình chất lượng | Quality Process Map
+
+```
+Planning (Lập kế hoạch)
+├── Plan Quality Management (Lập kế hoạch QL chất lượng)
+Executing (Thực hiện)
+├── Manage Quality (Quản lý chất lượng)
+Monitoring & Controlling (Giám sát & Kiểm soát)
+├── Control Quality (Kiểm soát chất lượng)
+```
+
+| Quy trình | Nhóm quy trình | Mô tả | Đầu vào chính | Đầu ra chính |
+|-----------|----------------|-------|---------------|--------------|
+| Plan Quality Management | Planning | Xác định các tiêu chuẩn chất lượng, cách kiểm soát và đảm bảo chất lượng | Project Charter, Stakeholder Register | Quality Management Plan, Quality Metrics |
+| Manage Quality | Executing | Thực hiện các hoạt động đảm bảo chất lượng, kiểm tra quy trình | Quality Management Plan, Project Docs | Quality Reports, Change Requests |
+| Control Quality | Monitoring & Controlling | Đánh giá kết quả bàn giao, xác định sự phù hợp với tiêu chuẩn | Deliverables, Quality Metrics | Verified Deliverables, Quality Control Measurements |
+
+> Xem chi tiết từng quy trình ở các phần bên dưới. 

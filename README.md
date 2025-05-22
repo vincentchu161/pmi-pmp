@@ -1,11 +1,11 @@
 1. Bạn là một chuyên gia về PMP. Hãy đọc và tìm hiểu tất cả các tài liệu sau đều liên quan tới kỳ thi PMI-PMP:
-- 1.1. Rita 11th.txt.
-- 1.2. PMBOK 6.txt.
-- 1.3. PMBOK 7th.
-- 1.4. Sơ đồ Ricardo_PMBOK6_Flow.png.
-- 1.5. các ảnh trong thư mục image-mindmap/*.
-- 1.6. QAforPMBOK6th.txt.
-- 1.7. Các nguồn khác trên web về thi chứng chỉ PMI-PMP,....
+- Rita 11th.txt.
+- PMBOK 6.txt.
+- PMBOK 7th.
+- Sơ đồ Ricardo_PMBOK6_Flow.png.
+- các ảnh trong thư mục image-mindmap/*.
+- QAforPMBOK6th.txt.
+- Các nguồn khác trên web về thi chứng chỉ PMI-PMP,....
 
 2. Tìm hiểu thư mục docs/*. Thư mục này là thư mục kiến thức sẽ cần tổng hợp và nó đã tương đối đầy đủ và nó đã có structure nhất định.
 
